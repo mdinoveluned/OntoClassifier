@@ -1,0 +1,547 @@
+id,categoria
+1,abrir y destapar / cerrar y cubrir
+2,"absurdo, locura y disparate / coherencia y cordura"
+3,acción
+4,"acción, función y participación"
+5,acciones y procesos
+6,actividad comercial y precios
+7,"actos violentos, golpes y daños físicos"
+8,"actos, ceremonias y fiestas"
+9,acústica
+10,adicciones
+11,adivinar y predecir / inesperado
+12,adornos
+13,aeronaves
+14,afecto y cariño
+15,afianzar y equilibrar
+16,aficiones y entretenimientos
+17,afirmar y negar
+18,"agrado, placer y alegría"
+19,agricultura
+20,agua dulce
+21,"agujeros, huecos y aberturas"
+22,alcoholismo
+23,alfarería
+24,"algas, hongos y vegetales inferiores"
+25,álgebra
+26,alimentación
+27,alimentos elaborados o cocinados
+28,"amable, educado y simpático / descortés, rudo y antipático"
+29,análisis
+30,anatomía
+31,anatomía animal compartida con la humana
+32,anatomía exclusivamente animal
+33,anatomía vegetal
+34,anfibios y reptiles
+35,animales
+36,antropología
+37,antropónimos
+38,apicultura
+39,apretar y tensar / aflojar
+40,aptitud y habilidad / torpeza
+41,árboles y arbustos
+42,archivística y biblioteconomía
+43,aritmética
+44,armas y explosivos
+45,arquitectura
+46,arquitectura militar
+47,arquitectura religiosa
+48,arte
+49,artes escénicas
+50,artes visuales
+51,aspecto físico
+52,aspecto y apariencia
+53,astrología y ciencias ocultas
+54,astronomía
+55,asuntos y temas
+56,atender y percatarse / distraer
+57,aumentar y ampliar / disminuir y moderar
+58,ausencia de movimiento o impedimentos / abrir paso
+59,aves
+60,baile
+61,bebidas
+62,"belleza, elegancia y compostura / fealdad y desaliño"
+63,bienes y posesiones
+64,biología
+65,biología general
+66,biología molecular y bioquímica
+67,bolsa
+68,bondad y honestidad
+69,botánica
+70,bueno y perfecto / malo e imperfecto
+71,caballería y órdenes militares y civiles
+72,callar
+73,calma y tranquilidad
+74,calzado
+75,"cambiar, modificar y sustituir"
+76,cambio de posesión
+77,cantería
+78,cantidades imprecisas
+79,capacidad: meter e incluir / sacar y excluir
+80,característica e identidad
+81,características del territorio
+82,carboneo
+83,"cargos, honores y tratamientos"
+84,carpintería
+85,caza
+86,cestería
+87,ciclo de la vida
+88,ciencias ambientales
+89,ciencias biológicas
+90,ciencias de la materia
+91,ciencias de la salud
+92,ciencias de la tecnología
+93,ciencias de la vida
+94,ciencias experimentales
+95,ciencias físicas
+96,ciencias geológicas
+97,ciencias humanas
+98,ciencias matemáticas
+99,ciencias meteorológicas
+100,ciencias químicas
+101,circunstancias favorables
+102,coger y tocar / soltar
+103,color
+104,combustibles fósiles y derivados
+105,comerciante
+106,comercios y tiendas
+107,"comienzo, causa y efecto"
+108,complementos
+109,comunicación
+110,comunicación escrita
+111,comunicación no verbal
+112,conceptos psicológicos
+113,concursos y competiciones
+114,condenas
+115,conducción
+116,conducta y emotividad
+117,conocimiento y experiencia
+118,construcción
+119,contabilidad y banca
+120,contenedores y recipientes
+121,correcto / equivocado
+122,correo y telégrafo
+123,corrientes literarias y sus seguidores
+124,corrientes y doctrinas artísticas
+125,corrientes y doctrinas filosóficas
+126,creencias
+127,creencias y prácticas religiosas
+128,cualidad
+129,cuerdas y cables
+130,cuidados estéticos
+131,culpa y disculpa
+132,cultivo del café
+133,cultivo del maíz
+134,cultivo del plátano
+135,cultura
+136,delincuencia e infracciones
+137,deportes
+138,derecho y legislación
+139,derechos y facultades
+140,desagradar y no interesar
+141,desarrollo de la acción
+142,desconocimiento e inexperiencia
+143,descripción del estado de salud
+144,descripción y comportamiento animal
+145,descripción y procesos de los vegetales
+146,designar y nombrar
+147,desorden
+148,deudas y acreedores
+149,dibujo y pintura
+150,"diferencia, desigualdad y desproporción"
+151,diligencia y esfuerzo
+152,dimensiones
+153,dinero y monedas
+154,diplomacia
+155,dirección del movimiento
+156,distribución y partes de los edificios
+157,distribuir y repartir
+158,"doblar, torcer y arrugar / desdoblar, enderezar y alisar"
+159,doctrinas religiosas
+160,documentos
+161,donativos y regalos
+162,ecdótica
+163,economía y empresa
+164,economía y producción
+165,edad adulta y vejez
+166,"edición, imprenta y libros"
+167,edificaciones y sus tipos
+168,educación
+169,ejército y conflictos bélicos
+170,el individuo
+171,el mundo
+172,elecciones
+173,electricidad y electrónica
+174,elegir y decidir / descartar
+175,elementos arquitectónicos
+176,elementos y compuestos químicos
+177,"eludir, eximir y prescindir"
+178,embarcaciones
+179,"empatía, compasión y consuelo / intolerancia y severidad"
+180,"encontrar, perder y buscar"
+181,enfermedad
+182,enfermedades de las plantas
+183,enojo y cólera
+184,"entereza, constancia y obstinación / flaqueza e inconstancia"
+185,entrar y llegar / salir y partir
+186,equitación y caballerías
+187,"esclavitud, feudalismo y vasallaje"
+188,escultura
+189,esencia y composición
+190,esmero y cuidado / chapuza
+191,espectáculos
+192,estado y existencia
+193,estado y situación
+194,estados y transformaciones de la materia
+195,estamentos y grupos sociales
+196,estar o poner de acuerdo o a favor
+197,ética y moral
+198,"exceder, destacar, superar"
+199,expresar compromiso
+200,expresión de sentimientos y valoraciones positivas
+201,fácil y comprensible / difícil e incomprensible
+202,falta de inteligencia
+203,farmacia
+204,fases del desarrollo de los animales
+205,fastuosidad y afectación / sencillez
+206,filología
+207,filosofía
+208,física nuclear
+209,fisiología
+210,flores
+211,fonología y fonética
+212,fontanería
+213,forma
+214,fórmulas de la vida social
+215,fotografía
+216,fracaso y derrota
+217,fruto
+218,fuego
+219,fuerza e intensidad / debilidad y cansancio
+220,ganadería
+221,general / abstracto
+222,general / particular
+223,generalidades de alimentación
+224,generalidades de cultura
+225,generalidades de economía y empresa
+226,generalidades de geografía política
+227,generalidades de la antropología
+228,generalidades de la arquitectura
+229,generalidades de la botánica
+230,generalidades de la filosofía
+231,generalidades de la geografía
+232,generalidades de la historia
+233,generalidades de la indumentaria
+234,generalidades de la lingüística
+235,generalidades de la literatura
+236,generalidades de la medicina
+237,generalidades de la política
+238,generalidades de la zoología
+239,generalidades de las artes escénicas
+240,generalidades de las artes visuales
+241,generalidades de las ciencias físicas
+242,generalidades de las ciencias geológicas
+243,generalidades de las ciencias químicas
+244,generalidades de las matemáticas
+245,generalidades de las telecomunicaciones
+246,generalidades de los medios de comunicación
+247,generalidades de los sentidos
+248,generalidades de metodología científica
+249,generalidades de ocio y diversión
+250,generalidades de transportes
+251,generalidades del arte
+252,generalidades del carácter y el comportamiento
+253,generalidades del ciclo de la vida
+254,generalidades del derecho
+255,generalidades del movimiento
+256,generalidades del trabajo
+257,generalidades del transporte aéreo
+258,géneros y composiciones literarias
+259,"generoso y desprendido / ambicioso, egoísta y tacaño"
+260,genética
+261,gentilicios
+262,geografía
+263,geografía física
+264,geografía política
+265,geometría
+266,gestión administrativa
+267,gestos y expresiones faciales
+268,gobierno y administración pública
+269,gorronar y sablear
+270,grande y desmesurado / pequeño
+271,grupos de personas
+272,grupos étnicos
+273,grupos o colecciones
+274,grupos religiosos y su estructura
+275,gusto
+276,hábito y repetición
+277,"hablar, narrar, conversar"
+278,hacer y conseguir
+279,heráldica
+280,heridas
+281,higiene
+282,historia
+283,historia y libros sagrados
+284,humor y burla
+285,"ideología, usos y costumbres"
+286,"igualdad, semejanza, coincidencia y proporción"
+287,imaginación y creación intelectual
+288,importante y valioso / poco importante
+289,importar e interesar
+290,"incitar, persuadir y aconsejar"
+291,indumentaria
+292,industria
+293,industria azucarera
+294,industria alimentaria
+295,infancia y juventud
+296,informar y explicar
+297,informática
+298,infraestructura del transporte aéreo
+299,infraestructura del transporte marítimo y fluvial
+300,infraestructura del transporte terrestre
+301,infraestructura hidráulica y conducción de fluidos
+302,instrumentos musicales
+303,inteligencia y astucia
+304,"intentar, procurar y recursos"
+305,"intranquilidad, sorpresa y confusión"
+306,invertebrados
+307,investigar y averiguar
+308,joyería y orfebrería
+309,juegos y juguetes
+310,lamentar y quejar
+311,"lealtad, confianza y gratitud / deslealtad, desconfianza y traición"
+312,lenguas
+313,lexicografía y lexicología
+314,leyes y códigos
+315,"límite, extremo y grado"
+316,lingüística
+317,literatura
+318,lluvia
+319,viento
+320,"lugar, espacio y posición"
+321,lugares de trabajo
+322,luz
+323,madera
+324,magnitudes y propiedades físicas
+325,maldad y deshonestidad
+326,mamíferos
+327,mantenerse y durar / consumir y extinguir
+328,mares y océanos
+329,materia
+330,material de escritorio y papelería
+331,materiales de construcción
+332,materiales y productos de origen animal
+333,materiales y productos de origen mineral
+334,materiales y productos de origen vegetal
+335,mecánica
+336,medicina
+337,medios
+338,medios de comunicación
+339,medios de comunicación de masas
+340,mejorar y perfeccionar / empeorar y deteriorar
+341,mestizaje étnico
+342,metodología científica
+343,métrica
+344,metrología
+345,microbiología
+346,miedo y peligro
+347,minerales
+348,minería
+349,misterios y secretos
+350,mitos y fábulas
+351,"mobiliario, menaje y decoración"
+352,modos de pronunciar
+353,mojado / seco
+354,molinero
+355,molinos de viento
+356,"moralidad, justicia y equidad / inmoralidad e injusticia"
+357,morfosintaxis
+358,"mostrar, manifestar y difundir"
+359,moverse a pie
+360,movimiento
+361,movimiento de fluidos
+362,movimiento en el aire o en el agua
+363,movimientos de evasión y persecución
+364,muerte
+365,música
+366,navegación
+367,necesario e ineludible
+368,negocios y empresas
+369,no acción
+370,no tener o no mostrar sentimientos
+371,nombres de los deportes y deportistas
+372,nombres propios
+373,"normal, común y frecuente / extraordinario e infrecuente"
+374,nuevo / viejo
+375,números
+376,"numismática, sigilografía y filatelia"
+377,objetos religiosos
+378,"obligaciones, contratos y acuerdos"
+379,ocio y diversión
+380,ociosidad y negligencia
+381,ocultar y desaparecer
+382,ocurrir
+383,odio
+384,oficios metalúrgicos
+385,oficios textiles
+386,oído
+387,olfato
+388,oponerse o estar en contra
+389,oportuno y adecuado / inoportuno e inadecuado
+390,óptica
+391,"orden, norma y clasificación"
+392,organización social
+393,organización territorial
+394,organizaciones e instituciones
+395,orgullo / modestia
+396,"ortografía, letras y alfabetos"
+397,otras adicciones
+398,otras profesiones
+399,otros productos vegetales
+400,paleontología
+401,partes de las embarcaciones
+402,peces
+403,pedagogía y enseñanza
+404,"pedir, conceder y denegar"
+405,peleas de gallos
+406,peletería
+407,"pensamiento, entendimiento y voluntad"
+408,"pensamiento, juicio y opinión"
+409,períodos y civilizaciones
+410,"perjuicio, daño y desamparo"
+411,pesca
+412,peso
+413,piezas y partes de cosas
+414,pintura no artística
+415,plantas
+416,poder legislativo
+417,política
+418,"poner, colgar y apoyar / quitar"
+419,posesión / carencia
+420,posesión y propiedad
+421,posibilidad / imposibilidad
+422,posturas y movimientos corporales
+423,potencia y eficacia
+424,precisión y exactitud / vaguedad
+425,prensa
+426,preparación y características de los alimentos
+427,preparación y planificación
+428,presencia y manifestación
+429,"presencia, reunión y compañía / ausencia y soledad"
+430,probabilidad y estadística
+431,problemas y dificultades
+432,"procedimientos, actuaciones y resoluciones judiciales"
+433,procesos y reacciones
+434,producir y elaborar
+435,productos metalúrgicos
+436,productos químicos
+437,profesiones
+438,profesores y alumnos
+439,protección civil y otros cuerpos de seguridad
+440,"protección, favor, seguridad y cuidado"
+441,"prudencia, seriedad y moderación / imprudencia y falta de moderación"
+442,psicología
+443,publicidad
+444,querer y desear
+445,"radio, televisión y cine"
+446,realidad y existencia
+447,recuerdo y memoria / olvido
+448,relación
+449,relación del hombre con los animales
+450,"relacionar, corresponder y comparar"
+451,relaciones amorosas
+452,relaciones familiares
+453,relaciones sociales
+454,religión
+455,relojería
+456,remuneración laboral
+457,"reprender, murmurar e insultar"
+458,reproducción animal
+459,reproducción vegetal
+460,"reputación, respeto y premio / humillación, deshonor y castigo"
+461,residencia y hospedaje
+462,residuos
+463,responsabilidad y deber / irresponsabilidad y exención
+464,restaurantes y bares
+465,resultado de la acción
+466,resumen y concisión
+467,retórica y oratoria
+468,reuniones y congresos
+469,romper y destruir / reparar
+470,"sacudir, mecer o vibrar"
+471,"seguridad, certeza y constatación / duda y sospecha"
+472,seguros
+473,semántica
+474,semillas
+475,"señales, marcas e indicios"
+476,sentidos
+477,separar / unir y juntar
+478,ser y esencia
+479,seres vivos
+480,servicio doméstico
+481,servicios de seguridad
+482,sexualidad
+483,sociología
+484,"solucionar, remediar y resarcir"
+485,sonido
+486,sonidos de los animales
+487,sucio / limpio
+488,sueño y descanso
+489,suerte y casualidad
+490,suministros e infraestructuras
+491,tabaco
+492,"tablas, gráficos y diagramas"
+493,tacto
+494,tauromaquia
+495,taxonomía animal
+496,taxonomía vegetal
+497,teatro
+498,tejidos
+499,telecomunicaciones
+500,teléfono
+501,temperatura
+502,tendencias y doctrinas políticas
+503,"tener, provocar y manifestar sentimientos"
+504,teorías y disciplinas
+505,terminar e interrumpir
+506,terrenos
+507,texturas y otras magnitudes y propiedades
+508,tiempo
+509,tierra
+510,todo / parte / nada
+511,topografía y parcelación
+512,topónimos
+513,trabajo
+514,tracción animal
+515,tracción mecánica y humana
+516,transmisiones sucesorias
+517,transporte aéreo
+518,transporte marítimo y fluvial
+519,transporte terrestre
+520,transportes
+521,trastornos psicológicos
+522,tratamientos y técnicas
+523,tributos
+524,"tristeza, sufrimiento y resignación"
+525,triunfo y logro
+526,urbanismo y mobiliario urbano
+527,utensilios y máquinas
+528,utilidad y provecho / inutilidad
+529,validez / nulidad
+530,"valor, ánimo y desenvoltura / cobardía, desánimo y timidez"
+531,vegetales
+532,"velocidad, rapidez y lentitud"
+533,"verdad y sinceridad / mentira, engaño y disimulo"
+534,vestido
+535,veterinaria
+536,vida animal
+537,vida humana
+538,vida vegetal
+539,vista
+540,viticultura
+541,vocabulario deportivo
+542,vocabulario musical
+543,"voluntad, libertad e intención / instintivo"
+544,vulcanismo
+545,zapatería
+546,zoología
