@@ -1,547 +1,547 @@
-id,categoria
-1,abrir y destapar / cerrar y cubrir
-2,"absurdo, locura y disparate / coherencia y cordura"
-3,acción
-4,"acción, función y participación"
-5,acciones y procesos
-6,actividad comercial y precios
-7,"actos violentos, golpes y daños físicos"
-8,"actos, ceremonias y fiestas"
-9,acústica
-10,adicciones
-11,adivinar y predecir / inesperado
-12,adornos
-13,aeronaves
-14,afecto y cariño
-15,afianzar y equilibrar
-16,aficiones y entretenimientos
-17,afirmar y negar
-18,"agrado, placer y alegría"
-19,agricultura
-20,agua dulce
-21,"agujeros, huecos y aberturas"
-22,alcoholismo
-23,alfarería
-24,"algas, hongos y vegetales inferiores"
-25,álgebra
-26,alimentación
-27,alimentos elaborados o cocinados
-28,"amable, educado y simpático / descortés, rudo y antipático"
-29,análisis
-30,anatomía
-31,anatomía animal compartida con la humana
-32,anatomía exclusivamente animal
-33,anatomía vegetal
-34,anfibios y reptiles
-35,animales
-36,antropología
-37,antropónimos
-38,apicultura
-39,apretar y tensar / aflojar
-40,aptitud y habilidad / torpeza
-41,árboles y arbustos
-42,archivística y biblioteconomía
-43,aritmética
-44,armas y explosivos
-45,arquitectura
-46,arquitectura militar
-47,arquitectura religiosa
-48,arte
-49,artes escénicas
-50,artes visuales
-51,aspecto físico
-52,aspecto y apariencia
-53,astrología y ciencias ocultas
-54,astronomía
-55,asuntos y temas
-56,atender y percatarse / distraer
-57,aumentar y ampliar / disminuir y moderar
-58,ausencia de movimiento o impedimentos / abrir paso
-59,aves
-60,baile
-61,bebidas
-62,"belleza, elegancia y compostura / fealdad y desaliño"
-63,bienes y posesiones
-64,biología
-65,biología general
-66,biología molecular y bioquímica
-67,bolsa
-68,bondad y honestidad
-69,botánica
-70,bueno y perfecto / malo e imperfecto
-71,caballería y órdenes militares y civiles
-72,callar
-73,calma y tranquilidad
-74,calzado
-75,"cambiar, modificar y sustituir"
-76,cambio de posesión
-77,cantería
-78,cantidades imprecisas
-79,capacidad: meter e incluir / sacar y excluir
-80,característica e identidad
-81,características del territorio
-82,carboneo
-83,"cargos, honores y tratamientos"
-84,carpintería
-85,caza
-86,cestería
-87,ciclo de la vida
-88,ciencias ambientales
-89,ciencias biológicas
-90,ciencias de la materia
-91,ciencias de la salud
-92,ciencias de la tecnología
-93,ciencias de la vida
-94,ciencias experimentales
-95,ciencias físicas
-96,ciencias geológicas
-97,ciencias humanas
-98,ciencias matemáticas
-99,ciencias meteorológicas
-100,ciencias químicas
-101,circunstancias favorables
-102,coger y tocar / soltar
-103,color
-104,combustibles fósiles y derivados
-105,comerciante
-106,comercios y tiendas
-107,"comienzo, causa y efecto"
-108,complementos
-109,comunicación
-110,comunicación escrita
-111,comunicación no verbal
-112,conceptos psicológicos
-113,concursos y competiciones
-114,condenas
-115,conducción
-116,conducta y emotividad
-117,conocimiento y experiencia
-118,construcción
-119,contabilidad y banca
-120,contenedores y recipientes
-121,correcto / equivocado
-122,correo y telégrafo
-123,corrientes literarias y sus seguidores
-124,corrientes y doctrinas artísticas
-125,corrientes y doctrinas filosóficas
-126,creencias
-127,creencias y prácticas religiosas
-128,cualidad
-129,cuerdas y cables
-130,cuidados estéticos
-131,culpa y disculpa
-132,cultivo del café
-133,cultivo del maíz
-134,cultivo del plátano
-135,cultura
-136,delincuencia e infracciones
-137,deportes
-138,derecho y legislación
-139,derechos y facultades
-140,desagradar y no interesar
-141,desarrollo de la acción
-142,desconocimiento e inexperiencia
-143,descripción del estado de salud
-144,descripción y comportamiento animal
-145,descripción y procesos de los vegetales
-146,designar y nombrar
-147,desorden
-148,deudas y acreedores
-149,dibujo y pintura
-150,"diferencia, desigualdad y desproporción"
-151,diligencia y esfuerzo
-152,dimensiones
-153,dinero y monedas
-154,diplomacia
-155,dirección del movimiento
-156,distribución y partes de los edificios
-157,distribuir y repartir
-158,"doblar, torcer y arrugar / desdoblar, enderezar y alisar"
-159,doctrinas religiosas
-160,documentos
-161,donativos y regalos
-162,ecdótica
-163,economía y empresa
-164,economía y producción
-165,edad adulta y vejez
-166,"edición, imprenta y libros"
-167,edificaciones y sus tipos
-168,educación
-169,ejército y conflictos bélicos
-170,el individuo
-171,el mundo
-172,elecciones
-173,electricidad y electrónica
-174,elegir y decidir / descartar
-175,elementos arquitectónicos
-176,elementos y compuestos químicos
-177,"eludir, eximir y prescindir"
-178,embarcaciones
-179,"empatía, compasión y consuelo / intolerancia y severidad"
-180,"encontrar, perder y buscar"
-181,enfermedad
-182,enfermedades de las plantas
-183,enojo y cólera
-184,"entereza, constancia y obstinación / flaqueza e inconstancia"
-185,entrar y llegar / salir y partir
-186,equitación y caballerías
-187,"esclavitud, feudalismo y vasallaje"
-188,escultura
-189,esencia y composición
-190,esmero y cuidado / chapuza
-191,espectáculos
-192,estado y existencia
-193,estado y situación
-194,estados y transformaciones de la materia
-195,estamentos y grupos sociales
-196,estar o poner de acuerdo o a favor
-197,ética y moral
-198,"exceder, destacar, superar"
-199,expresar compromiso
-200,expresión de sentimientos y valoraciones positivas
-201,fácil y comprensible / difícil e incomprensible
-202,falta de inteligencia
-203,farmacia
-204,fases del desarrollo de los animales
-205,fastuosidad y afectación / sencillez
-206,filología
-207,filosofía
-208,física nuclear
-209,fisiología
-210,flores
-211,fonología y fonética
-212,fontanería
-213,forma
-214,fórmulas de la vida social
-215,fotografía
-216,fracaso y derrota
-217,fruto
-218,fuego
-219,fuerza e intensidad / debilidad y cansancio
-220,ganadería
-221,general / abstracto
-222,general / particular
-223,generalidades de alimentación
-224,generalidades de cultura
-225,generalidades de economía y empresa
-226,generalidades de geografía política
-227,generalidades de la antropología
-228,generalidades de la arquitectura
-229,generalidades de la botánica
-230,generalidades de la filosofía
-231,generalidades de la geografía
-232,generalidades de la historia
-233,generalidades de la indumentaria
-234,generalidades de la lingüística
-235,generalidades de la literatura
-236,generalidades de la medicina
-237,generalidades de la política
-238,generalidades de la zoología
-239,generalidades de las artes escénicas
-240,generalidades de las artes visuales
-241,generalidades de las ciencias físicas
-242,generalidades de las ciencias geológicas
-243,generalidades de las ciencias químicas
-244,generalidades de las matemáticas
-245,generalidades de las telecomunicaciones
-246,generalidades de los medios de comunicación
-247,generalidades de los sentidos
-248,generalidades de metodología científica
-249,generalidades de ocio y diversión
-250,generalidades de transportes
-251,generalidades del arte
-252,generalidades del carácter y el comportamiento
-253,generalidades del ciclo de la vida
-254,generalidades del derecho
-255,generalidades del movimiento
-256,generalidades del trabajo
-257,generalidades del transporte aéreo
-258,géneros y composiciones literarias
-259,"generoso y desprendido / ambicioso, egoísta y tacaño"
-260,genética
-261,gentilicios
-262,geografía
-263,geografía física
-264,geografía política
-265,geometría
-266,gestión administrativa
-267,gestos y expresiones faciales
-268,gobierno y administración pública
-269,gorronar y sablear
-270,grande y desmesurado / pequeño
-271,grupos de personas
-272,grupos étnicos
-273,grupos o colecciones
-274,grupos religiosos y su estructura
-275,gusto
-276,hábito y repetición
-277,"hablar, narrar, conversar"
-278,hacer y conseguir
-279,heráldica
-280,heridas
-281,higiene
-282,historia
-283,historia y libros sagrados
-284,humor y burla
-285,"ideología, usos y costumbres"
-286,"igualdad, semejanza, coincidencia y proporción"
-287,imaginación y creación intelectual
-288,importante y valioso / poco importante
-289,importar e interesar
-290,"incitar, persuadir y aconsejar"
-291,indumentaria
-292,industria
-293,industria azucarera
-294,industria alimentaria
-295,infancia y juventud
-296,informar y explicar
-297,informática
-298,infraestructura del transporte aéreo
-299,infraestructura del transporte marítimo y fluvial
-300,infraestructura del transporte terrestre
-301,infraestructura hidráulica y conducción de fluidos
-302,instrumentos musicales
-303,inteligencia y astucia
-304,"intentar, procurar y recursos"
-305,"intranquilidad, sorpresa y confusión"
-306,invertebrados
-307,investigar y averiguar
-308,joyería y orfebrería
-309,juegos y juguetes
-310,lamentar y quejar
-311,"lealtad, confianza y gratitud / deslealtad, desconfianza y traición"
-312,lenguas
-313,lexicografía y lexicología
-314,leyes y códigos
-315,"límite, extremo y grado"
-316,lingüística
-317,literatura
-318,lluvia
-319,viento
-320,"lugar, espacio y posición"
-321,lugares de trabajo
-322,luz
-323,madera
-324,magnitudes y propiedades físicas
-325,maldad y deshonestidad
-326,mamíferos
-327,mantenerse y durar / consumir y extinguir
-328,mares y océanos
-329,materia
-330,material de escritorio y papelería
-331,materiales de construcción
-332,materiales y productos de origen animal
-333,materiales y productos de origen mineral
-334,materiales y productos de origen vegetal
-335,mecánica
-336,medicina
-337,medios
-338,medios de comunicación
-339,medios de comunicación de masas
-340,mejorar y perfeccionar / empeorar y deteriorar
-341,mestizaje étnico
-342,metodología científica
-343,métrica
-344,metrología
-345,microbiología
-346,miedo y peligro
-347,minerales
-348,minería
-349,misterios y secretos
-350,mitos y fábulas
-351,"mobiliario, menaje y decoración"
-352,modos de pronunciar
-353,mojado / seco
-354,molinero
-355,molinos de viento
-356,"moralidad, justicia y equidad / inmoralidad e injusticia"
-357,morfosintaxis
-358,"mostrar, manifestar y difundir"
-359,moverse a pie
-360,movimiento
-361,movimiento de fluidos
-362,movimiento en el aire o en el agua
-363,movimientos de evasión y persecución
-364,muerte
-365,música
-366,navegación
-367,necesario e ineludible
-368,negocios y empresas
-369,no acción
-370,no tener o no mostrar sentimientos
-371,nombres de los deportes y deportistas
-372,nombres propios
-373,"normal, común y frecuente / extraordinario e infrecuente"
-374,nuevo / viejo
-375,números
-376,"numismática, sigilografía y filatelia"
-377,objetos religiosos
-378,"obligaciones, contratos y acuerdos"
-379,ocio y diversión
-380,ociosidad y negligencia
-381,ocultar y desaparecer
-382,ocurrir
-383,odio
-384,oficios metalúrgicos
-385,oficios textiles
-386,oído
-387,olfato
-388,oponerse o estar en contra
-389,oportuno y adecuado / inoportuno e inadecuado
-390,óptica
-391,"orden, norma y clasificación"
-392,organización social
-393,organización territorial
-394,organizaciones e instituciones
-395,orgullo / modestia
-396,"ortografía, letras y alfabetos"
-397,otras adicciones
-398,otras profesiones
-399,otros productos vegetales
-400,paleontología
-401,partes de las embarcaciones
-402,peces
-403,pedagogía y enseñanza
-404,"pedir, conceder y denegar"
-405,peleas de gallos
-406,peletería
-407,"pensamiento, entendimiento y voluntad"
-408,"pensamiento, juicio y opinión"
-409,períodos y civilizaciones
-410,"perjuicio, daño y desamparo"
-411,pesca
-412,peso
-413,piezas y partes de cosas
-414,pintura no artística
-415,plantas
-416,poder legislativo
-417,política
-418,"poner, colgar y apoyar / quitar"
-419,posesión / carencia
-420,posesión y propiedad
-421,posibilidad / imposibilidad
-422,posturas y movimientos corporales
-423,potencia y eficacia
-424,precisión y exactitud / vaguedad
-425,prensa
-426,preparación y características de los alimentos
-427,preparación y planificación
-428,presencia y manifestación
-429,"presencia, reunión y compañía / ausencia y soledad"
-430,probabilidad y estadística
-431,problemas y dificultades
-432,"procedimientos, actuaciones y resoluciones judiciales"
-433,procesos y reacciones
-434,producir y elaborar
-435,productos metalúrgicos
-436,productos químicos
-437,profesiones
-438,profesores y alumnos
-439,protección civil y otros cuerpos de seguridad
-440,"protección, favor, seguridad y cuidado"
-441,"prudencia, seriedad y moderación / imprudencia y falta de moderación"
-442,psicología
-443,publicidad
-444,querer y desear
-445,"radio, televisión y cine"
-446,realidad y existencia
-447,recuerdo y memoria / olvido
-448,relación
-449,relación del hombre con los animales
-450,"relacionar, corresponder y comparar"
-451,relaciones amorosas
-452,relaciones familiares
-453,relaciones sociales
-454,religión
-455,relojería
-456,remuneración laboral
-457,"reprender, murmurar e insultar"
-458,reproducción animal
-459,reproducción vegetal
-460,"reputación, respeto y premio / humillación, deshonor y castigo"
-461,residencia y hospedaje
-462,residuos
-463,responsabilidad y deber / irresponsabilidad y exención
-464,restaurantes y bares
-465,resultado de la acción
-466,resumen y concisión
-467,retórica y oratoria
-468,reuniones y congresos
-469,romper y destruir / reparar
-470,"sacudir, mecer o vibrar"
-471,"seguridad, certeza y constatación / duda y sospecha"
-472,seguros
-473,semántica
-474,semillas
-475,"señales, marcas e indicios"
-476,sentidos
-477,separar / unir y juntar
-478,ser y esencia
-479,seres vivos
-480,servicio doméstico
-481,servicios de seguridad
-482,sexualidad
-483,sociología
-484,"solucionar, remediar y resarcir"
-485,sonido
-486,sonidos de los animales
-487,sucio / limpio
-488,sueño y descanso
-489,suerte y casualidad
-490,suministros e infraestructuras
-491,tabaco
-492,"tablas, gráficos y diagramas"
-493,tacto
-494,tauromaquia
-495,taxonomía animal
-496,taxonomía vegetal
-497,teatro
-498,tejidos
-499,telecomunicaciones
-500,teléfono
-501,temperatura
-502,tendencias y doctrinas políticas
-503,"tener, provocar y manifestar sentimientos"
-504,teorías y disciplinas
-505,terminar e interrumpir
-506,terrenos
-507,texturas y otras magnitudes y propiedades
-508,tiempo
-509,tierra
-510,todo / parte / nada
-511,topografía y parcelación
-512,topónimos
-513,trabajo
-514,tracción animal
-515,tracción mecánica y humana
-516,transmisiones sucesorias
-517,transporte aéreo
-518,transporte marítimo y fluvial
-519,transporte terrestre
-520,transportes
-521,trastornos psicológicos
-522,tratamientos y técnicas
-523,tributos
-524,"tristeza, sufrimiento y resignación"
-525,triunfo y logro
-526,urbanismo y mobiliario urbano
-527,utensilios y máquinas
-528,utilidad y provecho / inutilidad
-529,validez / nulidad
-530,"valor, ánimo y desenvoltura / cobardía, desánimo y timidez"
-531,vegetales
-532,"velocidad, rapidez y lentitud"
-533,"verdad y sinceridad / mentira, engaño y disimulo"
-534,vestido
-535,veterinaria
-536,vida animal
-537,vida humana
-538,vida vegetal
-539,vista
-540,viticultura
-541,vocabulario deportivo
-542,vocabulario musical
-543,"voluntad, libertad e intención / instintivo"
-544,vulcanismo
-545,zapatería
-546,zoología
+id,categoria,aliases
+1,abrir y destapar / cerrar y cubrir,Abrir Y Destapar / Cerrar Y Cubrir|Abrir Y Destapar / Cerrar Y Cubrires|abrir y destapar / cerrar y cubrir|abrir y destapar / cerrar y cubrires
+2,"absurdo, locura y disparate / coherencia y cordura","Absurdo, Locura Y Disparate / Coherencia Y Cordura|Absurdo, Locura Y Disparate / Coherencia Y Corduras|absurdo, locura y disparate / coherencia y cordura|absurdo, locura y disparate / coherencia y corduras"
+3,acción,Acción|Acciónes|accion|acciones|acción|acciónes
+4,"acción, función y participación","Acción, Función Y Participación|Acción, Función Y Participaciónes|accion, funcion y participacion|accion, funcion y participaciones|acción, función y participación|acción, función y participaciónes"
+5,acciones y procesos,Acciones Y Procesos|Acciones Y Procesoses|acciones y procesos|acciones y procesoses
+6,actividad comercial y precios,Actividad Comercial Y Precios|Actividad Comercial Y Precioses|actividad comercial y precios|actividad comercial y precioses
+7,"actos violentos, golpes y daños físicos","Actos Violentos, Golpes Y Daños Físicos|Actos Violentos, Golpes Y Daños Físicoses|actos violentos, golpes y danos fisicos|actos violentos, golpes y danos fisicoses|actos violentos, golpes y daños físicos|actos violentos, golpes y daños físicoses"
+8,"actos, ceremonias y fiestas","Actos, Ceremonias Y Fiestas|Actos, Ceremonias Y Fiestases|actos, ceremonias y fiestas|actos, ceremonias y fiestases"
+9,acústica,Acústica|Acústicas|acustica|acusticas|acústica|acústicas
+10,adicciones,Adicciones|Adiccioneses|adicciones|adiccioneses
+11,adivinar y predecir / inesperado,Adivinar Y Predecir / Inesperado|Adivinar Y Predecir / Inesperados|adivinar y predecir / inesperado|adivinar y predecir / inesperados
+12,adornos,Adornos|Adornoses|adornos|adornoses
+13,aeronaves,Aeronaves|Aeronaveses|aeronaves|aeronaveses
+14,afecto y cariño,Afecto Y Cariño|Afecto Y Cariños|afecto y carino|afecto y carinos|afecto y cariño|afecto y cariños
+15,afianzar y equilibrar,Afianzar Y Equilibrar|Afianzar Y Equilibrares|afianzar y equilibrar|afianzar y equilibrares
+16,aficiones y entretenimientos,Aficiones Y Entretenimientos|Aficiones Y Entretenimientoses|aficiones y entretenimientos|aficiones y entretenimientoses
+17,afirmar y negar,Afirmar Y Negar|Afirmar Y Negares|afirmar y negar|afirmar y negares
+18,"agrado, placer y alegría","Agrado, Placer Y Alegría|Agrado, Placer Y Alegrías|agrado, placer y alegria|agrado, placer y alegrias|agrado, placer y alegría|agrado, placer y alegrías"
+19,agricultura,Agricultura|Agriculturas|agricultura|agriculturas
+20,agua dulce,Agua Dulce|Agua Dulces|agua dulce|agua dulces
+21,"agujeros, huecos y aberturas","Agujeros, Huecos Y Aberturas|Agujeros, Huecos Y Aberturases|agujeros, huecos y aberturas|agujeros, huecos y aberturases"
+22,alcoholismo,Alcoholismo|Alcoholismos|alcoholismo|alcoholismos
+23,alfarería,Alfarería|Alfarerías|alfareria|alfarerias|alfarería|alfarerías
+24,"algas, hongos y vegetales inferiores","Algas, Hongos Y Vegetales Inferiores|Algas, Hongos Y Vegetales Inferioreses|algas, hongos y vegetales inferiores|algas, hongos y vegetales inferioreses"
+25,álgebra,algebra|algebras|Álgebra|Álgebras|álgebra|álgebras
+26,alimentación,Alimentación|Alimentaciónes|alimentacion|alimentaciones|alimentación|alimentaciónes
+27,alimentos elaborados o cocinados,Alimentos Elaborados O Cocinados|Alimentos Elaborados O Cocinadoses|alimentos elaborados o cocinados|alimentos elaborados o cocinadoses
+28,"amable, educado y simpático / descortés, rudo y antipático","Amable, Educado Y Simpático / Descortés, Rudo Y Antipático|Amable, Educado Y Simpático / Descortés, Rudo Y Antipáticos|amable, educado y simpatico / descortes, rudo y antipatico|amable, educado y simpatico / descortes, rudo y antipaticos|amable, educado y simpático / descortés, rudo y antipático|amable, educado y simpático / descortés, rudo y antipáticos"
+29,análisis,Análisis|Análisises|analisis|analisises|análisis|análisises
+30,anatomía,Anatomía|Anatomías|Aparato|Aparatos|Arteria|Arterias|Articulaciones|Articulacioneses|Articulación|Articulaciónes|Barba|Barbas|Bigote|Bigotes|Boca|Bocas|Brazo|Brazos|Cabello|Cabellos|Cabeza|Cabezas|Cadera|Caderas|Cerebro|Cerebros|Codo|Codos|Corazón|Corazónes|Corporal|Corporales|Cuello|Cuellos|Cuerpo|Cuerpos|Dedo|Dedos|Dermis|Dermises|Diente|Dientes|Dienteses|Encía|Encías|Epidermis|Epidermises|Espalda|Espaldas|Esqueleto|Esqueletos|Estómago|Estómagos|Hombro|Hombros|Hueso|Huesos|Huesoses|Hígado|Hígados|Intestino|Intestinos|Labio|Labios|Labioses|Lengua|Lenguas|Mano|Manos|Muñeca|Muñecas|Músculo|Músculos|Músculoses|Narices|Nariz|Nervio|Nervios|Nervioses|Ojo|Ojos|Oreja|Orejas|Pecho|Pechos|Peinado|Peinados|Pelo|Pelos|Pie|Piel|Pieles|Pierna|Piernas|Pies|Pulmones|Pulmoneses|Pulmón|Pulmónes|Riñones|Riñoneses|Riñón|Riñónes|Rodilla|Rodillas|Sangre|Sangres|Sistema|Sistemas|Tejido|Tejidos|Tejidoses|Tobillo|Tobillos|Torso|Torsos|Uña|Uñas|Vaso Sanguíneo|Vaso Sanguíneos|Vena|Venas|anatomia|anatomias|anatomía|anatomías|aparato|aparatos|arteria|arterias|articulacion|articulaciones|articulacioneses|articulación|articulaciónes|barba|barbas|bigote|bigotes|boca|bocas|brazo|brazos|cabello|cabellos|cabeza|cabezas|cadera|caderas|cerebro|cerebros|codo|codos|corazon|corazones|corazón|corazónes|corporal|corporales|cuello|cuellos|cuerpo|cuerpos|dedo|dedos|dermis|dermises|diente|dientes|dienteses|encia|encias|encía|encías|epidermis|epidermises|espalda|espaldas|esqueleto|esqueletos|estomago|estomagos|estómago|estómagos|higado|higados|hombro|hombros|hueso|huesos|huesoses|hígado|hígados|intestino|intestinos|labio|labios|labioses|lengua|lenguas|mano|manos|muneca|munecas|musculo|musculos|musculoses|muñeca|muñecas|músculo|músculos|músculoses|narices|nariz|nervio|nervios|nervioses|ojo|ojos|oreja|orejas|organo|organos|organoses|pecho|pechos|peinado|peinados|pelo|pelos|pie|piel|pieles|pierna|piernas|pies|pulmon|pulmones|pulmoneses|pulmón|pulmónes|rinon|rinones|rinoneses|riñones|riñoneses|riñón|riñónes|rodilla|rodillas|sangre|sangres|sistema|sistemas|tejido|tejidos|tejidoses|tobillo|tobillos|torso|torsos|una|unas|uña|uñas|vaso sanguineo|vaso sanguineos|vaso sanguíneo|vaso sanguíneos|vena|venas|Órgano|Órganos|Órganoses|órgano|órganos|órganoses
+31,anatomía animal compartida con la humana,Anatomía Animal Compartida Con La Humana|Anatomía Animal Compartida Con La Humanas|anatomia animal compartida con la humana|anatomia animal compartida con la humanas|anatomía animal compartida con la humana|anatomía animal compartida con la humanas
+32,anatomía exclusivamente animal,Anatomía Exclusivamente Animal|Anatomía Exclusivamente Animales|anatomia exclusivamente animal|anatomia exclusivamente animales|anatomía exclusivamente animal|anatomía exclusivamente animales
+33,anatomía vegetal,Anatomía Vegetal|Anatomía Vegetales|anatomia vegetal|anatomia vegetales|anatomía vegetal|anatomía vegetales
+34,anfibios y reptiles,Anfibios Y Reptiles|Anfibios Y Reptileses|anfibios y reptiles|anfibios y reptileses
+35,animales,Animales|Animaleses|animales|animaleses
+36,antropología,Antropología|Antropologías|antropologia|antropologias|antropología|antropologías
+37,antropónimos,Antropónimos|Antropónimoses|antroponimos|antroponimoses|antropónimos|antropónimoses
+38,apicultura,Apicultura|Apiculturas|apicultura|apiculturas
+39,apretar y tensar / aflojar,Apretar Y Tensar / Aflojar|Apretar Y Tensar / Aflojares|apretar y tensar / aflojar|apretar y tensar / aflojares
+40,aptitud y habilidad / torpeza,Aptitud Y Habilidad / Torpeza|Aptitud Y Habilidad / Torpezas|aptitud y habilidad / torpeza|aptitud y habilidad / torpezas
+41,árboles y arbustos,arboles y arbustos|arboles y arbustoses|Árboles Y Arbustos|Árboles Y Arbustoses|árboles y arbustos|árboles y arbustoses
+42,archivística y biblioteconomía,Archivística Y Biblioteconomía|Archivística Y Biblioteconomías|archivistica y biblioteconomia|archivistica y biblioteconomias|archivística y biblioteconomía|archivística y biblioteconomías
+43,aritmética,Aritmética|Aritméticas|aritmetica|aritmeticas|aritmética|aritméticas
+44,armas y explosivos,Armas Y Explosivos|Armas Y Explosivoses|armas y explosivos|armas y explosivoses
+45,arquitectura,Alzado|Alzados|Arquitectura|Arquitecturas|Construcción|Construcciónes|Diseño|Diseños|Edificación|Edificaciónes|Estructura|Estructuras|Planta|Plantas|alzado|alzados|arquitectura|arquitecturas|construccion|construcciones|construcción|construcciónes|diseno|disenos|diseño|diseños|edificacion|edificaciones|edificación|edificaciónes|estructura|estructuras|planta|plantas
+46,arquitectura militar,Arquitectura Militar|Arquitectura Militares|arquitectura militar|arquitectura militares
+47,arquitectura religiosa,Arquitectura Religiosa|Arquitectura Religiosas|arquitectura religiosa|arquitectura religiosas
+48,arte,Arte|Artes|Arteses|Dibujo|Dibujos|Escultura|Esculturas|Grabado|Grabados|Pintura|Pinturas|Plástica|Plásticas|arte|artes|arteses|dibujo|dibujos|escultura|esculturas|grabado|grabados|pintura|pinturas|plastica|plasticas|plástica|plásticas
+49,artes escénicas,Artes Escénicas|Artes Escénicases|artes escenicas|artes escenicases|artes escénicas|artes escénicases
+50,artes visuales,Artes Visuales|Artes Visualeses|artes visuales|artes visualeses
+51,aspecto físico,Aspecto Físico|Aspecto Físicos|aspecto fisico|aspecto fisicos|aspecto físico|aspecto físicos
+52,aspecto y apariencia,Aspecto Y Apariencia|Aspecto Y Apariencias|aspecto y apariencia|aspecto y apariencias
+53,astrología y ciencias ocultas,Astrología Y Ciencias Ocultas|Astrología Y Ciencias Ocultases|astrologia y ciencias ocultas|astrologia y ciencias ocultases|astrología y ciencias ocultas|astrología y ciencias ocultases
+54,astronomía,Astronomía|Astronomías|Astronómico|Astronómicos|Cielo|Cielos|Estrella|Estrellas|Galaxia|Galaxias|Planeta|Planetas|Telescopio|Telescopios|astronomia|astronomias|astronomico|astronomicos|astronomía|astronomías|astronómico|astronómicos|cielo|cielos|estrella|estrellas|galaxia|galaxias|planeta|planetas|telescopio|telescopios
+55,asuntos y temas,Asuntos Y Temas|Asuntos Y Temases|asuntos y temas|asuntos y temases
+56,atender y percatarse / distraer,Atender Y Percatarse / Distraer|Atender Y Percatarse / Distraeres|atender y percatarse / distraer|atender y percatarse / distraeres
+57,aumentar y ampliar / disminuir y moderar,Aumentar Y Ampliar / Disminuir Y Moderar|Aumentar Y Ampliar / Disminuir Y Moderares|aumentar y ampliar / disminuir y moderar|aumentar y ampliar / disminuir y moderares
+58,ausencia de movimiento o impedimentos / abrir paso,Ausencia De Movimiento O Impedimentos / Abrir Paso|Ausencia De Movimiento O Impedimentos / Abrir Pasos|ausencia de movimiento o impedimentos / abrir paso|ausencia de movimiento o impedimentos / abrir pasos
+59,aves,Ave|Aves|Aveses|Aviar|Aviares|Ornitología|Ornitologías|Pájaro|Pájaros|Pájaroses|ave|aves|aveses|aviar|aviares|ornitologia|ornitologias|ornitologico|ornitología|ornitologías|ornitológico|pajaro|pajaros|pajaroses|pájaro|pájaros|pájaroses
+60,baile,Baile|Bailes|baile|bailes
+61,bebidas,Bebidas|Bebidases|bebidas|bebidases
+62,"belleza, elegancia y compostura / fealdad y desaliño","Belleza, Elegancia Y Compostura / Fealdad Y Desaliño|Belleza, Elegancia Y Compostura / Fealdad Y Desaliños|belleza, elegancia y compostura / fealdad y desalino|belleza, elegancia y compostura / fealdad y desalinos|belleza, elegancia y compostura / fealdad y desaliño|belleza, elegancia y compostura / fealdad y desaliños"
+63,bienes y posesiones,Bienes Y Posesiones|Bienes Y Posesioneses|bienes y posesiones|bienes y posesioneses
+64,biología,Biología|Biologías|biologia|biologias|biología|biologías
+65,biología general,Biología General|Biología Generales|biologia general|biologia generales|biología general|biología generales
+66,biología molecular y bioquímica,Biología Molecular Y Bioquímica|Biología Molecular Y Bioquímicas|biologia molecular y bioquimica|biologia molecular y bioquimicas|biología molecular y bioquímica|biología molecular y bioquímicas
+67,bolsa,Bolsa|Bolsas|bolsa|bolsas
+68,bondad y honestidad,Bondad Y Honestidad|Bondad Y Honestidades|bondad y honestidad|bondad y honestidades
+69,botánica,Botánica|Botánicas|Botánico|Botánicos|Fitología|Fitologías|Flora|Floras|Plantas|Plantases|botanica|botanicas|botanico|botanicos|botánica|botánicas|botánico|botánicos|fitologia|fitologias|fitología|fitologías|flora|floras|plantas|plantases
+70,bueno y perfecto / malo e imperfecto,Bueno Y Perfecto / Malo E Imperfecto|Bueno Y Perfecto / Malo E Imperfectos|bueno y perfecto / malo e imperfecto|bueno y perfecto / malo e imperfectos
+71,caballería y órdenes militares y civiles,Caballería Y Órdenes Militares Y Civiles|Caballería Y Órdenes Militares Y Civileses|caballeria y ordenes militares y civiles|caballeria y ordenes militares y civileses|caballería y órdenes militares y civiles|caballería y órdenes militares y civileses
+72,callar,Callar|Callares|callar|callares
+73,calma y tranquilidad,Calma Y Tranquilidad|Calma Y Tranquilidades|calma y tranquilidad|calma y tranquilidades
+74,calzado,Calzado|Calzados|calzado|calzados
+75,"cambiar, modificar y sustituir","Cambiar, Modificar Y Sustituir|Cambiar, Modificar Y Sustituires|cambiar, modificar y sustituir|cambiar, modificar y sustituires"
+76,cambio de posesión,Cambio De Posesión|Cambio De Posesiónes|cambio de posesion|cambio de posesiones|cambio de posesión|cambio de posesiónes
+77,cantería,Cantería|Canterías|canteria|canterias|cantería|canterías
+78,cantidades imprecisas,Cantidades Imprecisas|Cantidades Imprecisases|cantidades imprecisas|cantidades imprecisases
+79,capacidad: meter e incluir / sacar y excluir,Capacidad: Meter E Incluir / Sacar Y Excluir|Capacidad: Meter E Incluir / Sacar Y Excluires|capacidad: meter e incluir / sacar y excluir|capacidad: meter e incluir / sacar y excluires
+80,característica e identidad,Característica E Identidad|Característica E Identidades|caracteristica e identidad|caracteristica e identidades|característica e identidad|característica e identidades
+81,características del territorio,Características Del Territorio|Características Del Territorios|caracteristicas del territorio|caracteristicas del territorios|características del territorio|características del territorios
+82,carboneo,Carboneo|Carboneos|carboneo|carboneos
+83,"cargos, honores y tratamientos","Cargos, Honores Y Tratamientos|Cargos, Honores Y Tratamientoses|cargos, honores y tratamientos|cargos, honores y tratamientoses"
+84,carpintería,Carpintería|Carpinterías|carpinteria|carpinterias|carpintería|carpinterías
+85,caza,Caza|Cazas|caza|cazas
+86,cestería,Cestería|Cesterías|cesteria|cesterias|cestería|cesterías
+87,ciclo de la vida,Ciclo De La Vida|Ciclo De La Vidas|ciclo de la vida|ciclo de la vidas
+88,ciencias ambientales,Ciencias Ambientales|Ciencias Ambientaleses|ciencias ambientales|ciencias ambientaleses
+89,ciencias biológicas,Ciencias Biológicas|Ciencias Biológicases|ciencias biologicas|ciencias biologicases|ciencias biológicas|ciencias biológicases
+90,ciencias de la materia,Ciencias De La Materia|Ciencias De La Materias|ciencias de la materia|ciencias de la materias
+91,ciencias de la salud,Ciencias De La Salud|Ciencias De La Saludes|ciencias de la salud|ciencias de la saludes
+92,ciencias de la tecnología,Ciencias De La Tecnología|Ciencias De La Tecnologías|ciencias de la tecnologia|ciencias de la tecnologias|ciencias de la tecnología|ciencias de la tecnologías
+93,ciencias de la vida,Ciencias De La Vida|Ciencias De La Vidas|ciencias de la vida|ciencias de la vidas
+94,ciencias experimentales,Ciencias Experimentales|Ciencias Experimentaleses|ciencias experimentales|ciencias experimentaleses
+95,ciencias físicas,Ciencias Físicas|Ciencias Físicases|ciencias fisicas|ciencias fisicases|ciencias físicas|ciencias físicases
+96,ciencias geológicas,Ciencias Geológicas|Ciencias Geológicases|ciencias geologicas|ciencias geologicases|ciencias geológicas|ciencias geológicases
+97,ciencias humanas,Ciencias Humanas|Ciencias Humanases|ciencias humanas|ciencias humanases
+98,ciencias matemáticas,Ciencias Matemáticas|Ciencias Matemáticases|ciencias matematicas|ciencias matematicases|ciencias matemáticas|ciencias matemáticases
+99,ciencias meteorológicas,Ciencias Meteorológicas|Ciencias Meteorológicases|ciencias meteorologicas|ciencias meteorologicases|ciencias meteorológicas|ciencias meteorológicases
+100,ciencias químicas,Ciencias Químicas|Ciencias Químicases|ciencias quimicas|ciencias quimicases|ciencias químicas|ciencias químicases
+101,circunstancias favorables,Circunstancias Favorables|Circunstancias Favorableses|circunstancias favorables|circunstancias favorableses
+102,coger y tocar / soltar,Coger Y Tocar / Soltar|Coger Y Tocar / Soltares|coger y tocar / soltar|coger y tocar / soltares
+103,color,Color|Colores|color|colores
+104,combustibles fósiles y derivados,Combustibles Fósiles Y Derivados|Combustibles Fósiles Y Derivadoses|combustibles fosiles y derivados|combustibles fosiles y derivadoses|combustibles fósiles y derivados|combustibles fósiles y derivadoses
+105,comerciante,Comerciante|Comerciantes|comerciante|comerciantes
+106,comercios y tiendas,Comercios Y Tiendas|Comercios Y Tiendases|comercios y tiendas|comercios y tiendases
+107,"comienzo, causa y efecto","Comienzo, Causa Y Efecto|Comienzo, Causa Y Efectos|comienzo, causa y efecto|comienzo, causa y efectos"
+108,complementos,Complementos|Complementoses|complementos|complementoses
+109,comunicación,Comunicación|Comunicaciónes|comunicacion|comunicaciones|comunicación|comunicaciónes
+110,comunicación escrita,Comunicación Escrita|Comunicación Escritas|comunicacion escrita|comunicacion escritas|comunicación escrita|comunicación escritas
+111,comunicación no verbal,Comunicación No Verbal|Comunicación No Verbales|comunicacion no verbal|comunicacion no verbales|comunicación no verbal|comunicación no verbales
+112,conceptos psicológicos,Conceptos Psicológicos|Conceptos Psicológicoses|conceptos psicologicos|conceptos psicologicoses|conceptos psicológicos|conceptos psicológicoses
+113,concursos y competiciones,Concursos Y Competiciones|Concursos Y Competicioneses|concursos y competiciones|concursos y competicioneses
+114,condenas,Condenas|Condenases|condenas|condenases
+115,conducción,Conducción|Conducciónes|conduccion|conducciones|conducción|conducciónes
+116,conducta y emotividad,Conducta Y Emotividad|Conducta Y Emotividades|conducta y emotividad|conducta y emotividades
+117,conocimiento y experiencia,Conocimiento Y Experiencia|Conocimiento Y Experiencias|conocimiento y experiencia|conocimiento y experiencias
+118,construcción,Construcción|Construcciónes|construccion|construcciones|construcción|construcciónes
+119,contabilidad y banca,Contabilidad Y Banca|Contabilidad Y Bancas|contabilidad y banca|contabilidad y bancas
+120,contenedores y recipientes,Contenedores Y Recipientes|Contenedores Y Recipienteses|contenedores y recipientes|contenedores y recipienteses
+121,correcto / equivocado,Correcto / Equivocado|Correcto / Equivocados|correcto / equivocado|correcto / equivocados
+122,correo y telégrafo,Correo Y Telégrafo|Correo Y Telégrafos|correo y telegrafo|correo y telegrafos|correo y telégrafo|correo y telégrafos
+123,corrientes literarias y sus seguidores,Corrientes Literarias Y Sus Seguidores|Corrientes Literarias Y Sus Seguidoreses|corrientes literarias y sus seguidores|corrientes literarias y sus seguidoreses
+124,corrientes y doctrinas artísticas,Corrientes Y Doctrinas Artísticas|Corrientes Y Doctrinas Artísticases|corrientes y doctrinas artisticas|corrientes y doctrinas artisticases|corrientes y doctrinas artísticas|corrientes y doctrinas artísticases
+125,corrientes y doctrinas filosóficas,Corrientes Y Doctrinas Filosóficas|Corrientes Y Doctrinas Filosóficases|corrientes y doctrinas filosoficas|corrientes y doctrinas filosoficases|corrientes y doctrinas filosóficas|corrientes y doctrinas filosóficases
+126,creencias,Creencias|Creenciases|creencias|creenciases
+127,creencias y prácticas religiosas,Creencias Y Prácticas Religiosas|Creencias Y Prácticas Religiosases|creencias y practicas religiosas|creencias y practicas religiosases|creencias y prácticas religiosas|creencias y prácticas religiosases
+128,cualidad,Cualidad|Cualidades|cualidad|cualidades
+129,cuerdas y cables,Cuerdas Y Cables|Cuerdas Y Cableses|cuerdas y cables|cuerdas y cableses
+130,cuidados estéticos,Cuidados Estéticos|Cuidados Estéticoses|cuidados esteticos|cuidados esteticoses|cuidados estéticos|cuidados estéticoses
+131,culpa y disculpa,Culpa Y Disculpa|Culpa Y Disculpas|culpa y disculpa|culpa y disculpas
+132,cultivo del café,Cultivo Del Café|Cultivo Del Cafés|cultivo del cafe|cultivo del cafes|cultivo del café|cultivo del cafés
+133,cultivo del maíz,Cultivo Del Maíces|Cultivo Del Maíz|cultivo del maices|cultivo del maiz|cultivo del maíces|cultivo del maíz
+134,cultivo del plátano,Cultivo Del Plátano|Cultivo Del Plátanos|cultivo del platano|cultivo del platanos|cultivo del plátano|cultivo del plátanos
+135,cultura,Cultura|Culturas|cultura|culturas
+136,delincuencia e infracciones,Delincuencia E Infracciones|Delincuencia E Infraccioneses|delincuencia e infracciones|delincuencia e infraccioneses
+137,deportes,Deportes|Deporteses|deportes|deporteses
+138,derecho y legislación,Derecho Y Legislación|Derecho Y Legislaciónes|derecho y legislacion|derecho y legislaciones|derecho y legislación|derecho y legislaciónes
+139,derechos y facultades,Derechos Y Facultades|Derechos Y Facultadeses|derechos y facultades|derechos y facultadeses
+140,desagradar y no interesar,Desagradar Y No Interesar|Desagradar Y No Interesares|desagradar y no interesar|desagradar y no interesares
+141,desarrollo de la acción,Desarrollo De La Acción|Desarrollo De La Acciónes|desarrollo de la accion|desarrollo de la acciones|desarrollo de la acción|desarrollo de la acciónes
+142,desconocimiento e inexperiencia,Desconocimiento E Inexperiencia|Desconocimiento E Inexperiencias|desconocimiento e inexperiencia|desconocimiento e inexperiencias
+143,descripción del estado de salud,Descripción Del Estado De Salud|Descripción Del Estado De Saludes|descripcion del estado de salud|descripcion del estado de saludes|descripción del estado de salud|descripción del estado de saludes
+144,descripción y comportamiento animal,Descripción Y Comportamiento Animal|Descripción Y Comportamiento Animales|descripcion y comportamiento animal|descripcion y comportamiento animales|descripción y comportamiento animal|descripción y comportamiento animales
+145,descripción y procesos de los vegetales,Descripción Y Procesos De Los Vegetales|Descripción Y Procesos De Los Vegetaleses|descripcion y procesos de los vegetales|descripcion y procesos de los vegetaleses|descripción y procesos de los vegetales|descripción y procesos de los vegetaleses
+146,designar y nombrar,Designar Y Nombrar|Designar Y Nombrares|designar y nombrar|designar y nombrares
+147,desorden,Desorden|Desordenes|desorden|desordenes
+148,deudas y acreedores,Deudas Y Acreedores|Deudas Y Acreedoreses|deudas y acreedores|deudas y acreedoreses
+149,dibujo y pintura,Dibujo Y Pintura|Dibujo Y Pinturas|dibujo y pintura|dibujo y pinturas
+150,"diferencia, desigualdad y desproporción","Diferencia, Desigualdad Y Desproporción|Diferencia, Desigualdad Y Desproporciónes|diferencia, desigualdad y desproporcion|diferencia, desigualdad y desproporciones|diferencia, desigualdad y desproporción|diferencia, desigualdad y desproporciónes"
+151,diligencia y esfuerzo,Diligencia Y Esfuerzo|Diligencia Y Esfuerzos|diligencia y esfuerzo|diligencia y esfuerzos
+152,dimensiones,Dimensiones|Dimensioneses|dimensiones|dimensioneses
+153,dinero y monedas,Dinero Y Monedas|Dinero Y Monedases|dinero y monedas|dinero y monedases
+154,diplomacia,Diplomacia|Diplomacias|diplomacia|diplomacias
+155,dirección del movimiento,Dirección Del Movimiento|Dirección Del Movimientos|direccion del movimiento|direccion del movimientos|dirección del movimiento|dirección del movimientos
+156,distribución y partes de los edificios,Distribución Y Partes De Los Edificios|Distribución Y Partes De Los Edificioses|distribucion y partes de los edificios|distribucion y partes de los edificioses|distribución y partes de los edificios|distribución y partes de los edificioses
+157,distribuir y repartir,Distribuir Y Repartir|Distribuir Y Repartires|distribuir y repartir|distribuir y repartires
+158,"doblar, torcer y arrugar / desdoblar, enderezar y alisar","Doblar, Torcer Y Arrugar / Desdoblar, Enderezar Y Alisar|Doblar, Torcer Y Arrugar / Desdoblar, Enderezar Y Alisares|doblar, torcer y arrugar / desdoblar, enderezar y alisar|doblar, torcer y arrugar / desdoblar, enderezar y alisares"
+159,doctrinas religiosas,Doctrinas Religiosas|Doctrinas Religiosases|doctrinas religiosas|doctrinas religiosases
+160,documentos,Documentos|Documentoses|documentos|documentoses
+161,donativos y regalos,Donativos Y Regalos|Donativos Y Regaloses|donativos y regalos|donativos y regaloses
+162,ecdótica,Ecdótica|Ecdóticas|ecdotica|ecdoticas|ecdótica|ecdóticas
+163,economía y empresa,Economía Y Empresa|Economía Y Empresas|economia y empresa|economia y empresas|economía y empresa|economía y empresas
+164,economía y producción,Economía Y Producción|Economía Y Producciónes|economia y produccion|economia y producciones|economía y producción|economía y producciónes
+165,edad adulta y vejez,Edad Adulta Y Vejeces|Edad Adulta Y Vejez|edad adulta y vejeces|edad adulta y vejez
+166,"edición, imprenta y libros","Edición, Imprenta Y Libros|Edición, Imprenta Y Libroses|edicion, imprenta y libros|edicion, imprenta y libroses|edición, imprenta y libros|edición, imprenta y libroses"
+167,edificaciones y sus tipos,Edificaciones Y Sus Tipos|Edificaciones Y Sus Tiposes|edificaciones y sus tipos|edificaciones y sus tiposes
+168,educación,Educación|Educaciónes|educacion|educaciones|educación|educaciónes
+169,ejército y conflictos bélicos,Ejército Y Conflictos Bélicos|Ejército Y Conflictos Bélicoses|ejercito y conflictos belicos|ejercito y conflictos belicoses|ejército y conflictos bélicos|ejército y conflictos bélicoses
+170,el individuo,El Individuo|El Individuos|el individuo|el individuos
+171,el mundo,El Mundo|El Mundos|el mundo|el mundos
+172,elecciones,Elecciones|Eleccioneses|elecciones|eleccioneses
+173,electricidad y electrónica,Electricidad Y Electrónica|Electricidad Y Electrónicas|electricidad y electronica|electricidad y electronicas|electricidad y electrónica|electricidad y electrónicas
+174,elegir y decidir / descartar,Elegir Y Decidir / Descartar|Elegir Y Decidir / Descartares|elegir y decidir / descartar|elegir y decidir / descartares
+175,elementos arquitectónicos,Elementos Arquitectónicos|Elementos Arquitectónicoses|elementos arquitectonicos|elementos arquitectonicoses|elementos arquitectónicos|elementos arquitectónicoses
+176,elementos y compuestos químicos,Elementos Y Compuestos Químicos|Elementos Y Compuestos Químicoses|elementos y compuestos quimicos|elementos y compuestos quimicoses|elementos y compuestos químicos|elementos y compuestos químicoses
+177,"eludir, eximir y prescindir","Eludir, Eximir Y Prescindir|Eludir, Eximir Y Prescindires|eludir, eximir y prescindir|eludir, eximir y prescindires"
+178,embarcaciones,Embarcaciones|Embarcacioneses|embarcaciones|embarcacioneses
+179,"empatía, compasión y consuelo / intolerancia y severidad","Empatía, Compasión Y Consuelo / Intolerancia Y Severidad|Empatía, Compasión Y Consuelo / Intolerancia Y Severidades|empatia, compasion y consuelo / intolerancia y severidad|empatia, compasion y consuelo / intolerancia y severidades|empatía, compasión y consuelo / intolerancia y severidad|empatía, compasión y consuelo / intolerancia y severidades"
+180,"encontrar, perder y buscar","Encontrar, Perder Y Buscar|Encontrar, Perder Y Buscares|encontrar, perder y buscar|encontrar, perder y buscares"
+181,enfermedad,Enfermedad|Enfermedades|enfermedad|enfermedades
+182,enfermedades de las plantas,Enfermedades De Las Plantas|Enfermedades De Las Plantases|enfermedades de las plantas|enfermedades de las plantases
+183,enojo y cólera,Enojo Y Cólera|Enojo Y Cóleras|enojo y colera|enojo y coleras|enojo y cólera|enojo y cóleras
+184,"entereza, constancia y obstinación / flaqueza e inconstancia","Entereza, Constancia Y Obstinación / Flaqueza E Inconstancia|Entereza, Constancia Y Obstinación / Flaqueza E Inconstancias|entereza, constancia y obstinacion / flaqueza e inconstancia|entereza, constancia y obstinacion / flaqueza e inconstancias|entereza, constancia y obstinación / flaqueza e inconstancia|entereza, constancia y obstinación / flaqueza e inconstancias"
+185,entrar y llegar / salir y partir,Entrar Y Llegar / Salir Y Partir|Entrar Y Llegar / Salir Y Partires|entrar y llegar / salir y partir|entrar y llegar / salir y partires
+186,equitación y caballerías,Equitación Y Caballerías|Equitación Y Caballeríases|equitacion y caballerias|equitacion y caballeriases|equitación y caballerías|equitación y caballeríases
+187,"esclavitud, feudalismo y vasallaje","Esclavitud, Feudalismo Y Vasallaje|Esclavitud, Feudalismo Y Vasallajes|esclavitud, feudalismo y vasallaje|esclavitud, feudalismo y vasallajes"
+188,escultura,Escultura|Esculturas|escultura|esculturas
+189,esencia y composición,Esencia Y Composición|Esencia Y Composiciónes|esencia y composicion|esencia y composiciones|esencia y composición|esencia y composiciónes
+190,esmero y cuidado / chapuza,Esmero Y Cuidado / Chapuza|Esmero Y Cuidado / Chapuzas|esmero y cuidado / chapuza|esmero y cuidado / chapuzas
+191,espectáculos,Espectáculos|Espectáculoses|espectaculos|espectaculoses|espectáculos|espectáculoses
+192,estado y existencia,Estado Y Existencia|Estado Y Existencias|estado y existencia|estado y existencias
+193,estado y situación,Estado Y Situación|Estado Y Situaciónes|estado y situacion|estado y situaciones|estado y situación|estado y situaciónes
+194,estados y transformaciones de la materia,Estados Y Transformaciones De La Materia|Estados Y Transformaciones De La Materias|estados y transformaciones de la materia|estados y transformaciones de la materias
+195,estamentos y grupos sociales,Estamentos Y Grupos Sociales|Estamentos Y Grupos Socialeses|estamentos y grupos sociales|estamentos y grupos socialeses
+196,estar o poner de acuerdo o a favor,Estar O Poner De Acuerdo O A Favor|Estar O Poner De Acuerdo O A Favores|estar o poner de acuerdo o a favor|estar o poner de acuerdo o a favores
+197,ética y moral,etica y moral|etica y morales|Ética Y Moral|Ética Y Morales|ética y moral|ética y morales
+198,"exceder, destacar, superar","Exceder, Destacar, Superar|Exceder, Destacar, Superares|exceder, destacar, superar|exceder, destacar, superares"
+199,expresar compromiso,Expresar Compromiso|Expresar Compromisos|expresar compromiso|expresar compromisos
+200,expresión de sentimientos y valoraciones positivas,Expresión De Sentimientos Y Valoraciones Positivas|Expresión De Sentimientos Y Valoraciones Positivases|expresion de sentimientos y valoraciones positivas|expresion de sentimientos y valoraciones positivases|expresión de sentimientos y valoraciones positivas|expresión de sentimientos y valoraciones positivases
+201,fácil y comprensible / difícil e incomprensible,Fácil Y Comprensible / Difícil E Incomprensible|Fácil Y Comprensible / Difícil E Incomprensibles|facil y comprensible / dificil e incomprensible|facil y comprensible / dificil e incomprensibles|fácil y comprensible / difícil e incomprensible|fácil y comprensible / difícil e incomprensibles
+202,falta de inteligencia,Falta De Inteligencia|Falta De Inteligencias|falta de inteligencia|falta de inteligencias
+203,farmacia,Farmacia|Farmacias|farmacia|farmacias
+204,fases del desarrollo de los animales,Fases Del Desarrollo De Los Animales|Fases Del Desarrollo De Los Animaleses|fases del desarrollo de los animales|fases del desarrollo de los animaleses
+205,fastuosidad y afectación / sencillez,Fastuosidad Y Afectación / Sencilleces|Fastuosidad Y Afectación / Sencillez|fastuosidad y afectacion / sencilleces|fastuosidad y afectacion / sencillez|fastuosidad y afectación / sencilleces|fastuosidad y afectación / sencillez
+206,filología,Filología|Filologías|filologia|filologias|filología|filologías
+207,filosofía,Filosofía|Filosofías|filosofia|filosofias|filosofía|filosofías
+208,física nuclear,Física Nuclear|Física Nucleares|fisica nuclear|fisica nucleares|física nuclear|física nucleares
+209,fisiología,Fisiología|Fisiologías|fisiologia|fisiologias|fisiología|fisiologías
+210,flores,Flores|Floreses|flores|floreses
+211,fonología y fonética,Fonología Y Fonética|Fonología Y Fonéticas|fonologia y fonetica|fonologia y foneticas|fonología y fonética|fonología y fonéticas
+212,fontanería,Fontanería|Fontanerías|fontaneria|fontanerias|fontanería|fontanerías
+213,forma,Forma|Formas|forma|formas
+214,fórmulas de la vida social,Fórmulas De La Vida Social|Fórmulas De La Vida Sociales|formulas de la vida social|formulas de la vida sociales|fórmulas de la vida social|fórmulas de la vida sociales
+215,fotografía,Fotografía|Fotografías|fotografia|fotografias|fotografía|fotografías
+216,fracaso y derrota,Fracaso Y Derrota|Fracaso Y Derrotas|fracaso y derrota|fracaso y derrotas
+217,fruto,Fruto|Frutos|fruto|frutos
+218,fuego,Fuego|Fuegos|fuego|fuegos
+219,fuerza e intensidad / debilidad y cansancio,Fuerza E Intensidad / Debilidad Y Cansancio|Fuerza E Intensidad / Debilidad Y Cansancios|fuerza e intensidad / debilidad y cansancio|fuerza e intensidad / debilidad y cansancios
+220,ganadería,Ganadería|Ganaderías|ganaderia|ganaderias|ganadería|ganaderías
+221,general / abstracto,General / Abstracto|General / Abstractos|general / abstracto|general / abstractos
+222,general / particular,General / Particular|General / Particulares|general / particular|general / particulares
+223,generalidades de alimentación,Generalidades De Alimentación|Generalidades De Alimentaciónes|generalidades de alimentacion|generalidades de alimentaciones|generalidades de alimentación|generalidades de alimentaciónes
+224,generalidades de cultura,Generalidades De Cultura|Generalidades De Culturas|generalidades de cultura|generalidades de culturas
+225,generalidades de economía y empresa,Generalidades De Economía Y Empresa|Generalidades De Economía Y Empresas|generalidades de economia y empresa|generalidades de economia y empresas|generalidades de economía y empresa|generalidades de economía y empresas
+226,generalidades de geografía política,Generalidades De Geografía Política|Generalidades De Geografía Políticas|generalidades de geografia politica|generalidades de geografia politicas|generalidades de geografía política|generalidades de geografía políticas
+227,generalidades de la antropología,Generalidades De La Antropología|Generalidades De La Antropologías|generalidades de la antropologia|generalidades de la antropologias|generalidades de la antropología|generalidades de la antropologías
+228,generalidades de la arquitectura,Generalidades De La Arquitectura|Generalidades De La Arquitecturas|generalidades de la arquitectura|generalidades de la arquitecturas
+229,generalidades de la botánica,Generalidades De La Botánica|Generalidades De La Botánicas|generalidades de la botanica|generalidades de la botanicas|generalidades de la botánica|generalidades de la botánicas
+230,generalidades de la filosofía,Generalidades De La Filosofía|Generalidades De La Filosofías|generalidades de la filosofia|generalidades de la filosofias|generalidades de la filosofía|generalidades de la filosofías
+231,generalidades de la geografía,Generalidades De La Geografía|Generalidades De La Geografías|generalidades de la geografia|generalidades de la geografias|generalidades de la geografía|generalidades de la geografías
+232,generalidades de la historia,Generalidades De La Historia|Generalidades De La Historias|generalidades de la historia|generalidades de la historias
+233,generalidades de la indumentaria,Generalidades De La Indumentaria|Generalidades De La Indumentarias|generalidades de la indumentaria|generalidades de la indumentarias
+234,generalidades de la lingüística,Generalidades De La Lingüística|Generalidades De La Lingüísticas|generalidades de la linguistica|generalidades de la linguisticas|generalidades de la lingüística|generalidades de la lingüísticas
+235,generalidades de la literatura,Generalidades De La Literatura|Generalidades De La Literaturas|generalidades de la literatura|generalidades de la literaturas
+236,generalidades de la medicina,Generalidades De La Medicina|Generalidades De La Medicinas|generalidades de la medicina|generalidades de la medicinas
+237,generalidades de la política,Generalidades De La Política|Generalidades De La Políticas|generalidades de la politica|generalidades de la politicas|generalidades de la política|generalidades de la políticas
+238,generalidades de la zoología,Generalidades De La Zoología|Generalidades De La Zoologías|generalidades de la zoologia|generalidades de la zoologias|generalidades de la zoología|generalidades de la zoologías
+239,generalidades de las artes escénicas,Generalidades De Las Artes Escénicas|Generalidades De Las Artes Escénicases|generalidades de las artes escenicas|generalidades de las artes escenicases|generalidades de las artes escénicas|generalidades de las artes escénicases
+240,generalidades de las artes visuales,Generalidades De Las Artes Visuales|Generalidades De Las Artes Visualeses|generalidades de las artes visuales|generalidades de las artes visualeses
+241,generalidades de las ciencias físicas,Generalidades De Las Ciencias Físicas|Generalidades De Las Ciencias Físicases|generalidades de las ciencias fisicas|generalidades de las ciencias fisicases|generalidades de las ciencias físicas|generalidades de las ciencias físicases
+242,generalidades de las ciencias geológicas,Generalidades De Las Ciencias Geológicas|Generalidades De Las Ciencias Geológicases|generalidades de las ciencias geologicas|generalidades de las ciencias geologicases|generalidades de las ciencias geológicas|generalidades de las ciencias geológicases
+243,generalidades de las ciencias químicas,Generalidades De Las Ciencias Químicas|Generalidades De Las Ciencias Químicases|generalidades de las ciencias quimicas|generalidades de las ciencias quimicases|generalidades de las ciencias químicas|generalidades de las ciencias químicases
+244,generalidades de las matemáticas,Generalidades De Las Matemáticas|Generalidades De Las Matemáticases|generalidades de las matematicas|generalidades de las matematicases|generalidades de las matemáticas|generalidades de las matemáticases
+245,generalidades de las telecomunicaciones,Generalidades De Las Telecomunicaciones|Generalidades De Las Telecomunicacioneses|generalidades de las telecomunicaciones|generalidades de las telecomunicacioneses
+246,generalidades de los medios de comunicación,Generalidades De Los Medios De Comunicación|Generalidades De Los Medios De Comunicaciónes|generalidades de los medios de comunicacion|generalidades de los medios de comunicaciones|generalidades de los medios de comunicación|generalidades de los medios de comunicaciónes
+247,generalidades de los sentidos,Generalidades De Los Sentidos|Generalidades De Los Sentidoses|generalidades de los sentidos|generalidades de los sentidoses
+248,generalidades de metodología científica,Generalidades De Metodología Científica|Generalidades De Metodología Científicas|generalidades de metodologia cientifica|generalidades de metodologia cientificas|generalidades de metodología científica|generalidades de metodología científicas
+249,generalidades de ocio y diversión,Generalidades De Ocio Y Diversión|Generalidades De Ocio Y Diversiónes|generalidades de ocio y diversion|generalidades de ocio y diversiones|generalidades de ocio y diversión|generalidades de ocio y diversiónes
+250,generalidades de transportes,Generalidades De Transportes|Generalidades De Transporteses|generalidades de transportes|generalidades de transporteses
+251,generalidades del arte,Generalidades Del Arte|Generalidades Del Artes|generalidades del arte|generalidades del artes
+252,generalidades del carácter y el comportamiento,Generalidades Del Carácter Y El Comportamiento|Generalidades Del Carácter Y El Comportamientos|generalidades del caracter y el comportamiento|generalidades del caracter y el comportamientos|generalidades del carácter y el comportamiento|generalidades del carácter y el comportamientos
+253,generalidades del ciclo de la vida,Generalidades Del Ciclo De La Vida|Generalidades Del Ciclo De La Vidas|generalidades del ciclo de la vida|generalidades del ciclo de la vidas
+254,generalidades del derecho,Generalidades Del Derecho|Generalidades Del Derechos|generalidades del derecho|generalidades del derechos
+255,generalidades del movimiento,Generalidades Del Movimiento|Generalidades Del Movimientos|generalidades del movimiento|generalidades del movimientos
+256,generalidades del trabajo,Generalidades Del Trabajo|Generalidades Del Trabajos|generalidades del trabajo|generalidades del trabajos
+257,generalidades del transporte aéreo,Generalidades Del Transporte Aéreo|Generalidades Del Transporte Aéreos|generalidades del transporte aereo|generalidades del transporte aereos|generalidades del transporte aéreo|generalidades del transporte aéreos
+258,géneros y composiciones literarias,Géneros Y Composiciones Literarias|Géneros Y Composiciones Literariases|generos y composiciones literarias|generos y composiciones literariases|géneros y composiciones literarias|géneros y composiciones literariases
+259,"generoso y desprendido / ambicioso, egoísta y tacaño","Generoso Y Desprendido / Ambicioso, Egoísta Y Tacaño|Generoso Y Desprendido / Ambicioso, Egoísta Y Tacaños|generoso y desprendido / ambicioso, egoista y tacano|generoso y desprendido / ambicioso, egoista y tacanos|generoso y desprendido / ambicioso, egoísta y tacaño|generoso y desprendido / ambicioso, egoísta y tacaños"
+260,genética,Genética|Genéticas|genetica|geneticas|genética|genéticas
+261,gentilicios,Gentilicios|Gentilicioses|gentilicios|gentilicioses
+262,geografía,Cartografía|Cartografías|Geografía|Geografías|Geográfico|Geográficos|Lugar|Lugares|Mapa|Mapas|Región|Regiónes|Territorio|Territorios|Toponimia|Toponimias|cartografia|cartografias|cartografía|cartografías|geografia|geografias|geografico|geograficos|geografía|geografías|geográfico|geográficos|lugar|lugares|mapa|mapas|region|regiones|región|regiónes|territorio|territorios|toponimia|toponimias|toponimo|topónimo
+263,geografía física,Geografía Física|Geografía Físicas|geografia fisica|geografia fisicas|geografía física|geografía físicas
+264,geografía política,Geografía Política|Geografía Políticas|geografia politica|geografia politicas|geografía política|geografía políticas
+265,geometría,Geometría|Geometrías|geometria|geometrias|geometría|geometrías
+266,gestión administrativa,Gestión Administrativa|Gestión Administrativas|gestion administrativa|gestion administrativas|gestión administrativa|gestión administrativas
+267,gestos y expresiones faciales,Gestos Y Expresiones Faciales|Gestos Y Expresiones Facialeses|gestos y expresiones faciales|gestos y expresiones facialeses
+268,gobierno y administración pública,Gobierno Y Administración Pública|Gobierno Y Administración Públicas|gobierno y administracion publica|gobierno y administracion publicas|gobierno y administración pública|gobierno y administración públicas
+269,gorronar y sablear,Gorronar Y Sablear|Gorronar Y Sableares|gorronar y sablear|gorronar y sableares
+270,grande y desmesurado / pequeño,Grande Y Desmesurado / Pequeño|Grande Y Desmesurado / Pequeños|grande y desmesurado / pequeno|grande y desmesurado / pequenos|grande y desmesurado / pequeño|grande y desmesurado / pequeños
+271,grupos de personas,Grupos De Personas|Grupos De Personases|grupos de personas|grupos de personases
+272,grupos étnicos,Grupos Étnicos|Grupos Étnicoses|grupos etnicos|grupos etnicoses|grupos étnicos|grupos étnicoses
+273,grupos o colecciones,Grupos O Colecciones|Grupos O Coleccioneses|grupos o colecciones|grupos o coleccioneses
+274,grupos religiosos y su estructura,Grupos Religiosos Y Su Estructura|Grupos Religiosos Y Su Estructuras|grupos religiosos y su estructura|grupos religiosos y su estructuras
+275,gusto,Gusto|Gustos|gusto|gustos
+276,hábito y repetición,Hábito Y Repetición|Hábito Y Repeticiónes|habito y repeticion|habito y repeticiones|hábito y repetición|hábito y repeticiónes
+277,"hablar, narrar, conversar","Hablar, Narrar, Conversar|Hablar, Narrar, Conversares|hablar, narrar, conversar|hablar, narrar, conversares"
+278,hacer y conseguir,Hacer Y Conseguir|Hacer Y Conseguires|hacer y conseguir|hacer y conseguires
+279,heráldica,Heráldica|Heráldicas|heraldica|heraldicas|heráldica|heráldicas
+280,heridas,Heridas|Heridases|heridas|heridases
+281,higiene,Higiene|Higienes|higiene|higienes
+282,historia,Anales|Analeses|Crónica|Crónicas|Historia|Historias|Historiografía|Historiografías|Histórico|Históricos|Periodo|Periodos|anales|analeses|cronica|cronicas|crónica|crónicas|epoca|epocas|historia|historias|historico|historicos|historiografia|historiografias|historiografía|historiografías|histórico|históricos|periodo|periodos|Época|Épocas|época|épocas
+283,historia y libros sagrados,Historia Y Libros Sagrados|Historia Y Libros Sagradoses|historia y libros sagrados|historia y libros sagradoses
+284,humor y burla,Humor Y Burla|Humor Y Burlas|humor y burla|humor y burlas
+285,"ideología, usos y costumbres","Ideología, Usos Y Costumbres|Ideología, Usos Y Costumbreses|ideologia, usos y costumbres|ideologia, usos y costumbreses|ideología, usos y costumbres|ideología, usos y costumbreses"
+286,"igualdad, semejanza, coincidencia y proporción","Igualdad, Semejanza, Coincidencia Y Proporción|Igualdad, Semejanza, Coincidencia Y Proporciónes|igualdad, semejanza, coincidencia y proporcion|igualdad, semejanza, coincidencia y proporciones|igualdad, semejanza, coincidencia y proporción|igualdad, semejanza, coincidencia y proporciónes"
+287,imaginación y creación intelectual,Imaginación Y Creación Intelectual|Imaginación Y Creación Intelectuales|imaginacion y creacion intelectual|imaginacion y creacion intelectuales|imaginación y creación intelectual|imaginación y creación intelectuales
+288,importante y valioso / poco importante,Importante Y Valioso / Poco Importante|Importante Y Valioso / Poco Importantes|importante y valioso / poco importante|importante y valioso / poco importantes
+289,importar e interesar,Importar E Interesar|Importar E Interesares|importar e interesar|importar e interesares
+290,"incitar, persuadir y aconsejar","Incitar, Persuadir Y Aconsejar|Incitar, Persuadir Y Aconsejares|incitar, persuadir y aconsejar|incitar, persuadir y aconsejares"
+291,indumentaria,Indumentaria|Indumentarias|indumentaria|indumentarias
+292,industria,Industria|Industrias|industria|industrias
+293,industria azucarera,Industria Azucarera|Industria Azucareras|industria azucarera|industria azucareras
+294,industria alimentaria,Industria Alimentaria|Industria Alimentarias|industria alimentaria|industria alimentarias
+295,infancia y juventud,Infancia Y Juventud|Infancia Y Juventudes|infancia y juventud|infancia y juventudes
+296,informar y explicar,Informar Y Explicar|Informar Y Explicares|informar y explicar|informar y explicares
+297,informática,Algoritmo|Algoritmos|Computación|Computaciónes|Datos|Datoses|Hardware|Hardwares|Informática|Informáticas|Programación|Programaciónes|Software|Softwares|Tecnología|Tecnologías|algoritmo|algoritmos|computacion|computaciones|computación|computaciónes|datos|datoses|hardware|hardwares|informatica|informaticas|informática|informáticas|programacion|programaciones|programación|programaciónes|software|softwares|tecnologia|tecnologias|tecnología|tecnologías
+298,infraestructura del transporte aéreo,Infraestructura Del Transporte Aéreo|Infraestructura Del Transporte Aéreos|infraestructura del transporte aereo|infraestructura del transporte aereos|infraestructura del transporte aéreo|infraestructura del transporte aéreos
+299,infraestructura del transporte marítimo y fluvial,Infraestructura Del Transporte Marítimo Y Fluvial|Infraestructura Del Transporte Marítimo Y Fluviales|infraestructura del transporte maritimo y fluvial|infraestructura del transporte maritimo y fluviales|infraestructura del transporte marítimo y fluvial|infraestructura del transporte marítimo y fluviales
+300,infraestructura del transporte terrestre,Infraestructura Del Transporte Terrestre|Infraestructura Del Transporte Terrestres|infraestructura del transporte terrestre|infraestructura del transporte terrestres
+301,infraestructura hidráulica y conducción de fluidos,Infraestructura Hidráulica Y Conducción De Fluidos|Infraestructura Hidráulica Y Conducción De Fluidoses|infraestructura hidraulica y conduccion de fluidos|infraestructura hidraulica y conduccion de fluidoses|infraestructura hidráulica y conducción de fluidos|infraestructura hidráulica y conducción de fluidoses
+302,instrumentos musicales,Instrumentos Musicales|Instrumentos Musicaleses|instrumentos musicales|instrumentos musicaleses
+303,inteligencia y astucia,Inteligencia Y Astucia|Inteligencia Y Astucias|inteligencia y astucia|inteligencia y astucias
+304,"intentar, procurar y recursos","Intentar, Procurar Y Recursos|Intentar, Procurar Y Recursoses|intentar, procurar y recursos|intentar, procurar y recursoses"
+305,"intranquilidad, sorpresa y confusión","Intranquilidad, Sorpresa Y Confusión|Intranquilidad, Sorpresa Y Confusiónes|intranquilidad, sorpresa y confusion|intranquilidad, sorpresa y confusiones|intranquilidad, sorpresa y confusión|intranquilidad, sorpresa y confusiónes"
+306,invertebrados,Invertebrados|Invertebradoses|invertebrados|invertebradoses
+307,investigar y averiguar,Investigar Y Averiguar|Investigar Y Averiguares|investigar y averiguar|investigar y averiguares
+308,joyería y orfebrería,Joyería Y Orfebrería|Joyería Y Orfebrerías|joyeria y orfebreria|joyeria y orfebrerias|joyería y orfebrería|joyería y orfebrerías
+309,juegos y juguetes,Juegos Y Juguetes|Juegos Y Jugueteses|juegos y juguetes|juegos y jugueteses
+310,lamentar y quejar,Lamentar Y Quejar|Lamentar Y Quejares|lamentar y quejar|lamentar y quejares
+311,"lealtad, confianza y gratitud / deslealtad, desconfianza y traición","Lealtad, Confianza Y Gratitud / Deslealtad, Desconfianza Y Traición|Lealtad, Confianza Y Gratitud / Deslealtad, Desconfianza Y Traiciónes|lealtad, confianza y gratitud / deslealtad, desconfianza y traicion|lealtad, confianza y gratitud / deslealtad, desconfianza y traiciones|lealtad, confianza y gratitud / deslealtad, desconfianza y traición|lealtad, confianza y gratitud / deslealtad, desconfianza y traiciónes"
+312,lenguas,Lenguas|Lenguases|lenguas|lenguases
+313,lexicografía y lexicología,Lexicografía Y Lexicología|Lexicografía Y Lexicologías|lexicografia y lexicologia|lexicografia y lexicologias|lexicografía y lexicología|lexicografía y lexicologías
+314,leyes y códigos,Leyes Y Códigos|Leyes Y Códigoses|leyes y codigos|leyes y codigoses|leyes y códigos|leyes y códigoses
+315,"límite, extremo y grado","Límite, Extremo Y Grado|Límite, Extremo Y Grados|limite, extremo y grado|limite, extremo y grados|límite, extremo y grado|límite, extremo y grados"
+316,lingüística,Filología|Filologías|Lexicografía|Lexicografías|Lexicología|Lexicologías|Lingüística|Lingüísticas|Pragmática|Pragmáticas|Semántica|Semánticas|filologia|filologias|filología|filologías|lexicografia|lexicografias|lexicografía|lexicografías|lexicologia|lexicologias|lexicología|lexicologías|linguistica|linguisticas|linguistico|lingüística|lingüísticas|lingüístico|pragmatica|pragmaticas|pragmática|pragmáticas|semantica|semanticas|semántica|semánticas
+317,literatura,Autor|Autores|Drama|Dramas|Ensayo|Ensayos|Letras|Letrases|Literatura|Literaturas|Narrativa|Narrativas|Obra|Obras|Poesía|Poesías|autor|autores|drama|dramas|ensayo|ensayos|letras|letrases|literatura|literaturas|narrativa|narrativas|obra|obras|poesia|poesias|poesía|poesías
+318,lluvia,Lluvia|Lluvias|lluvia|lluvias
+319,viento,Viento|Vientos|viento|vientos
+320,"lugar, espacio y posición","Lugar, Espacio Y Posición|Lugar, Espacio Y Posiciónes|lugar, espacio y posicion|lugar, espacio y posiciones|lugar, espacio y posición|lugar, espacio y posiciónes"
+321,lugares de trabajo,Lugares De Trabajo|Lugares De Trabajos|lugares de trabajo|lugares de trabajos
+322,luz,Luces|Luz|luces|luz
+323,madera,Madera|Maderas|madera|maderas
+324,magnitudes y propiedades físicas,Magnitudes Y Propiedades Físicas|Magnitudes Y Propiedades Físicases|magnitudes y propiedades fisicas|magnitudes y propiedades fisicases|magnitudes y propiedades físicas|magnitudes y propiedades físicases
+325,maldad y deshonestidad,Maldad Y Deshonestidad|Maldad Y Deshonestidades|maldad y deshonestidad|maldad y deshonestidades
+326,mamíferos,Mamíferos|Mamíferoses|mamifero|mamiferos|mamiferoses|mamífero|mamíferos|mamíferoses
+327,mantenerse y durar / consumir y extinguir,Mantenerse Y Durar / Consumir Y Extinguir|Mantenerse Y Durar / Consumir Y Extinguires|mantenerse y durar / consumir y extinguir|mantenerse y durar / consumir y extinguires
+328,mares y océanos,Mares Y Océanos|Mares Y Océanoses|mares y oceanos|mares y oceanoses|mares y océanos|mares y océanoses
+329,materia,Materia|Materias|materia|materias
+330,material de escritorio y papelería,Material De Escritorio Y Papelería|Material De Escritorio Y Papelerías|material de escritorio y papeleria|material de escritorio y papelerias|material de escritorio y papelería|material de escritorio y papelerías
+331,materiales de construcción,Materiales De Construcción|Materiales De Construcciónes|materiales de construccion|materiales de construcciones|materiales de construcción|materiales de construcciónes
+332,materiales y productos de origen animal,Materiales Y Productos De Origen Animal|Materiales Y Productos De Origen Animales|materiales y productos de origen animal|materiales y productos de origen animales
+333,materiales y productos de origen mineral,Materiales Y Productos De Origen Mineral|Materiales Y Productos De Origen Minerales|materiales y productos de origen mineral|materiales y productos de origen minerales
+334,materiales y productos de origen vegetal,Materiales Y Productos De Origen Vegetal|Materiales Y Productos De Origen Vegetales|materiales y productos de origen vegetal|materiales y productos de origen vegetales
+335,mecánica,Mecánica|Mecánicas|mecanica|mecanicas|mecánica|mecánicas
+336,medicina,Clínica|Clínicas|Diagnóstico|Diagnósticos|Medicina|Medicinas|Médico|Médicos|Patología|Patologías|Salud|Saludes|Terapia|Terapias|Tratamiento|Tratamientos|clinica|clinicas|clínica|clínicas|diagnostico|diagnosticos|diagnóstico|diagnósticos|medicina|medicinas|medico|medicos|médico|médicos|patologia|patologias|patología|patologías|salud|saludes|terapia|terapias|tratamiento|tratamientos
+337,medios,Medios|Medioses|medios|medioses
+338,medios de comunicación,Medios De Comunicación|Medios De Comunicaciónes|medios de comunicacion|medios de comunicaciones|medios de comunicación|medios de comunicaciónes
+339,medios de comunicación de masas,Medios De Comunicación De Masas|Medios De Comunicación De Masases|medios de comunicacion de masas|medios de comunicacion de masases|medios de comunicación de masas|medios de comunicación de masases
+340,mejorar y perfeccionar / empeorar y deteriorar,Mejorar Y Perfeccionar / Empeorar Y Deteriorar|Mejorar Y Perfeccionar / Empeorar Y Deteriorares|mejorar y perfeccionar / empeorar y deteriorar|mejorar y perfeccionar / empeorar y deteriorares
+341,mestizaje étnico,Mestizaje Étnico|Mestizaje Étnicos|mestizaje etnico|mestizaje etnicos|mestizaje étnico|mestizaje étnicos
+342,metodología científica,Metodología Científica|Metodología Científicas|metodologia cientifica|metodologia cientificas|metodología científica|metodología científicas
+343,métrica,Métrica|Métricas|metrica|metricas|métrica|métricas
+344,metrología,Metrología|Metrologías|metrologia|metrologias|metrología|metrologías
+345,microbiología,Microbiología|Microbiologías|microbiologia|microbiologias|microbiología|microbiologías
+346,miedo y peligro,Miedo Y Peligro|Miedo Y Peligros|miedo y peligro|miedo y peligros
+347,minerales,Minerales|Mineraleses|minerales|mineraleses
+348,minería,Minería|Minerías|mineria|minerias|minería|minerías
+349,misterios y secretos,Misterios Y Secretos|Misterios Y Secretoses|misterios y secretos|misterios y secretoses
+350,mitos y fábulas,Mitos Y Fábulas|Mitos Y Fábulases|mitos y fabulas|mitos y fabulases|mitos y fábulas|mitos y fábulases
+351,"mobiliario, menaje y decoración","Mobiliario, Menaje Y Decoración|Mobiliario, Menaje Y Decoraciónes|mobiliario, menaje y decoracion|mobiliario, menaje y decoraciones|mobiliario, menaje y decoración|mobiliario, menaje y decoraciónes"
+352,modos de pronunciar,Modos De Pronunciar|Modos De Pronunciares|modos de pronunciar|modos de pronunciares
+353,mojado / seco,Mojado / Seco|Mojado / Secos|mojado / seco|mojado / secos
+354,molinero,Molinero|Molineros|molinero|molineros
+355,molinos de viento,Molinos De Viento|Molinos De Vientos|molinos de viento|molinos de vientos
+356,"moralidad, justicia y equidad / inmoralidad e injusticia","Moralidad, Justicia Y Equidad / Inmoralidad E Injusticia|Moralidad, Justicia Y Equidad / Inmoralidad E Injusticias|moralidad, justicia y equidad / inmoralidad e injusticia|moralidad, justicia y equidad / inmoralidad e injusticias"
+357,morfosintaxis,Morfosintaxis|Morfosintaxises|morfosintaxis|morfosintaxises
+358,"mostrar, manifestar y difundir","Mostrar, Manifestar Y Difundir|Mostrar, Manifestar Y Difundires|mostrar, manifestar y difundir|mostrar, manifestar y difundires"
+359,moverse a pie,Moverse A Pie|Moverse A Pies|moverse a pie|moverse a pies
+360,movimiento,Movimiento|Movimientos|movimiento|movimientos
+361,movimiento de fluidos,Movimiento De Fluidos|Movimiento De Fluidoses|movimiento de fluidos|movimiento de fluidoses
+362,movimiento en el aire o en el agua,Movimiento En El Aire O En El Agua|Movimiento En El Aire O En El Aguas|movimiento en el aire o en el agua|movimiento en el aire o en el aguas
+363,movimientos de evasión y persecución,Movimientos De Evasión Y Persecución|Movimientos De Evasión Y Persecuciónes|movimientos de evasion y persecucion|movimientos de evasion y persecuciones|movimientos de evasión y persecución|movimientos de evasión y persecuciónes
+364,muerte,Muerte|Muertes|muerte|muertes
+365,música,Armonía|Armonías|Canto|Cantos|Composición|Composiciónes|Instrumento|Instrumentos|Melodía|Melodías|Música|Músicas|Ritmo|Ritmos|armonia|armonias|armonía|armonías|canto|cantos|composicion|composiciones|composición|composiciónes|instrumento|instrumentos|melodia|melodias|melodía|melodías|musica|musicas|música|músicas|ritmo|ritmos
+366,navegación,Navegación|Navegaciónes|navegacion|navegaciones|navegación|navegaciónes
+367,necesario e ineludible,Necesario E Ineludible|Necesario E Ineludibles|necesario e ineludible|necesario e ineludibles
+368,negocios y empresas,Negocios Y Empresas|Negocios Y Empresases|negocios y empresas|negocios y empresases
+369,no acción,No Acción|No Acciónes|no accion|no acciones|no acción|no acciónes
+370,no tener o no mostrar sentimientos,No Tener O No Mostrar Sentimientos|No Tener O No Mostrar Sentimientoses|no tener o no mostrar sentimientos|no tener o no mostrar sentimientoses
+371,nombres de los deportes y deportistas,Nombres De Los Deportes Y Deportistas|Nombres De Los Deportes Y Deportistases|nombres de los deportes y deportistas|nombres de los deportes y deportistases
+372,nombres propios,Nombres Propios|Nombres Propioses|nombres propios|nombres propioses
+373,"normal, común y frecuente / extraordinario e infrecuente","Normal, Común Y Frecuente / Extraordinario E Infrecuente|Normal, Común Y Frecuente / Extraordinario E Infrecuentes|normal, comun y frecuente / extraordinario e infrecuente|normal, comun y frecuente / extraordinario e infrecuentes|normal, común y frecuente / extraordinario e infrecuente|normal, común y frecuente / extraordinario e infrecuentes"
+374,nuevo / viejo,Nuevo / Viejo|Nuevo / Viejos|nuevo / viejo|nuevo / viejos
+375,números,Números|Númeroses|numeros|numeroses|números|númeroses
+376,"numismática, sigilografía y filatelia","Numismática, Sigilografía Y Filatelia|Numismática, Sigilografía Y Filatelias|numismatica, sigilografia y filatelia|numismatica, sigilografia y filatelias|numismática, sigilografía y filatelia|numismática, sigilografía y filatelias"
+377,objetos religiosos,Objetos Religiosos|Objetos Religiososes|objetos religiosos|objetos religiososes
+378,"obligaciones, contratos y acuerdos","Obligaciones, Contratos Y Acuerdos|Obligaciones, Contratos Y Acuerdoses|obligaciones, contratos y acuerdos|obligaciones, contratos y acuerdoses"
+379,ocio y diversión,Ocio Y Diversión|Ocio Y Diversiónes|ocio y diversion|ocio y diversiones|ocio y diversión|ocio y diversiónes
+380,ociosidad y negligencia,Ociosidad Y Negligencia|Ociosidad Y Negligencias|ociosidad y negligencia|ociosidad y negligencias
+381,ocultar y desaparecer,Ocultar Y Desaparecer|Ocultar Y Desapareceres|ocultar y desaparecer|ocultar y desapareceres
+382,ocurrir,Ocurrir|Ocurrires|ocurrir|ocurrires
+383,odio,Odio|Odios|odio|odios
+384,oficios metalúrgicos,Oficios Metalúrgicos|Oficios Metalúrgicoses|oficios metalurgicos|oficios metalurgicoses|oficios metalúrgicos|oficios metalúrgicoses
+385,oficios textiles,Oficios Textiles|Oficios Textileses|oficios textiles|oficios textileses
+386,oído,Oído|Oídos|oido|oidos|oído|oídos
+387,olfato,Olfato|Olfatos|olfato|olfatos
+388,oponerse o estar en contra,Oponerse O Estar En Contra|Oponerse O Estar En Contras|oponerse o estar en contra|oponerse o estar en contras
+389,oportuno y adecuado / inoportuno e inadecuado,Oportuno Y Adecuado / Inoportuno E Inadecuado|Oportuno Y Adecuado / Inoportuno E Inadecuados|oportuno y adecuado / inoportuno e inadecuado|oportuno y adecuado / inoportuno e inadecuados
+390,óptica,optica|opticas|Óptica|Ópticas|óptica|ópticas
+391,"orden, norma y clasificación","Orden, Norma Y Clasificación|Orden, Norma Y Clasificaciónes|orden, norma y clasificacion|orden, norma y clasificaciones|orden, norma y clasificación|orden, norma y clasificaciónes"
+392,organización social,Organización Social|Organización Sociales|organizacion social|organizacion sociales|organización social|organización sociales
+393,organización territorial,Organización Territorial|Organización Territoriales|organizacion territorial|organizacion territoriales|organización territorial|organización territoriales
+394,organizaciones e instituciones,Organizaciones E Instituciones|Organizaciones E Institucioneses|organizaciones e instituciones|organizaciones e institucioneses
+395,orgullo / modestia,Orgullo / Modestia|Orgullo / Modestias|orgullo / modestia|orgullo / modestias
+396,"ortografía, letras y alfabetos","Ortografía, Letras Y Alfabetos|Ortografía, Letras Y Alfabetoses|ortografia, letras y alfabetos|ortografia, letras y alfabetoses|ortografía, letras y alfabetos|ortografía, letras y alfabetoses"
+397,otras adicciones,Otras Adicciones|Otras Adiccioneses|otras adicciones|otras adiccioneses
+398,otras profesiones,Otras Profesiones|Otras Profesioneses|otras profesiones|otras profesioneses
+399,otros productos vegetales,Otros Productos Vegetales|Otros Productos Vegetaleses|otros productos vegetales|otros productos vegetaleses
+400,paleontología,Paleontología|Paleontologías|paleontologia|paleontologias|paleontología|paleontologías
+401,partes de las embarcaciones,Partes De Las Embarcaciones|Partes De Las Embarcacioneses|partes de las embarcaciones|partes de las embarcacioneses
+402,peces,Ictiología|Ictiologías|Ictiológico|Ictiológicos|Peces|Peceses|Pez|Piscícola|Piscícolas|ictiologia|ictiologias|ictiologico|ictiologicos|ictiología|ictiologías|ictiológico|ictiológicos|peces|peceses|pez|piscicola|piscicolas|piscícola|piscícolas
+403,pedagogía y enseñanza,Pedagogía Y Enseñanza|Pedagogía Y Enseñanzas|pedagogia y ensenanza|pedagogia y ensenanzas|pedagogía y enseñanza|pedagogía y enseñanzas
+404,"pedir, conceder y denegar","Pedir, Conceder Y Denegar|Pedir, Conceder Y Denegares|pedir, conceder y denegar|pedir, conceder y denegares"
+405,peleas de gallos,Peleas De Gallos|Peleas De Galloses|peleas de gallos|peleas de galloses
+406,peletería,Peletería|Peleterías|peleteria|peleterias|peletería|peleterías
+407,"pensamiento, entendimiento y voluntad","Pensamiento, Entendimiento Y Voluntad|Pensamiento, Entendimiento Y Voluntades|pensamiento, entendimiento y voluntad|pensamiento, entendimiento y voluntades"
+408,"pensamiento, juicio y opinión","Pensamiento, Juicio Y Opinión|Pensamiento, Juicio Y Opiniónes|pensamiento, juicio y opinion|pensamiento, juicio y opiniones|pensamiento, juicio y opinión|pensamiento, juicio y opiniónes"
+409,períodos y civilizaciones,Períodos Y Civilizaciones|Períodos Y Civilizacioneses|periodos y civilizaciones|periodos y civilizacioneses|períodos y civilizaciones|períodos y civilizacioneses
+410,"perjuicio, daño y desamparo","Perjuicio, Daño Y Desamparo|Perjuicio, Daño Y Desamparos|perjuicio, dano y desamparo|perjuicio, dano y desamparos|perjuicio, daño y desamparo|perjuicio, daño y desamparos"
+411,pesca,Pesca|Pescas|pesca|pescas
+412,peso,Peso|Pesos|peso|pesos
+413,piezas y partes de cosas,Piezas Y Partes De Cosas|Piezas Y Partes De Cosases|piezas y partes de cosas|piezas y partes de cosases
+414,pintura no artística,Pintura No Artística|Pintura No Artísticas|pintura no artistica|pintura no artisticas|pintura no artística|pintura no artísticas
+415,plantas,Botánica|Botánicas|Flora|Floras|Planta|Plantas|Plantases|Vegetal|Vegetales|Vegetaleses|botanica|botanicas|botanico|botánica|botánicas|botánico|flora|floras|planta|plantas|plantases|vegetal|vegetales|vegetaleses
+416,poder legislativo,Poder Legislativo|Poder Legislativos|poder legislativo|poder legislativos
+417,política,Política|Políticas|politica|politicas|política|políticas
+418,"poner, colgar y apoyar / quitar","Poner, Colgar Y Apoyar / Quitar|Poner, Colgar Y Apoyar / Quitares|poner, colgar y apoyar / quitar|poner, colgar y apoyar / quitares"
+419,posesión / carencia,Posesión / Carencia|Posesión / Carencias|posesion / carencia|posesion / carencias|posesión / carencia|posesión / carencias
+420,posesión y propiedad,Posesión Y Propiedad|Posesión Y Propiedades|posesion y propiedad|posesion y propiedades|posesión y propiedad|posesión y propiedades
+421,posibilidad / imposibilidad,Posibilidad / Imposibilidad|Posibilidad / Imposibilidades|posibilidad / imposibilidad|posibilidad / imposibilidades
+422,posturas y movimientos corporales,Posturas Y Movimientos Corporales|Posturas Y Movimientos Corporaleses|posturas y movimientos corporales|posturas y movimientos corporaleses
+423,potencia y eficacia,Potencia Y Eficacia|Potencia Y Eficacias|potencia y eficacia|potencia y eficacias
+424,precisión y exactitud / vaguedad,Precisión Y Exactitud / Vaguedad|Precisión Y Exactitud / Vaguedades|precision y exactitud / vaguedad|precision y exactitud / vaguedades|precisión y exactitud / vaguedad|precisión y exactitud / vaguedades
+425,prensa,Prensa|Prensas|prensa|prensas
+426,preparación y características de los alimentos,Preparación Y Características De Los Alimentos|Preparación Y Características De Los Alimentoses|preparacion y caracteristicas de los alimentos|preparacion y caracteristicas de los alimentoses|preparación y características de los alimentos|preparación y características de los alimentoses
+427,preparación y planificación,Preparación Y Planificación|Preparación Y Planificaciónes|preparacion y planificacion|preparacion y planificaciones|preparación y planificación|preparación y planificaciónes
+428,presencia y manifestación,Presencia Y Manifestación|Presencia Y Manifestaciónes|presencia y manifestacion|presencia y manifestaciones|presencia y manifestación|presencia y manifestaciónes
+429,"presencia, reunión y compañía / ausencia y soledad","Presencia, Reunión Y Compañía / Ausencia Y Soledad|Presencia, Reunión Y Compañía / Ausencia Y Soledades|presencia, reunion y compania / ausencia y soledad|presencia, reunion y compania / ausencia y soledades|presencia, reunión y compañía / ausencia y soledad|presencia, reunión y compañía / ausencia y soledades"
+430,probabilidad y estadística,Probabilidad Y Estadística|Probabilidad Y Estadísticas|probabilidad y estadistica|probabilidad y estadisticas|probabilidad y estadística|probabilidad y estadísticas
+431,problemas y dificultades,Problemas Y Dificultades|Problemas Y Dificultadeses|problemas y dificultades|problemas y dificultadeses
+432,"procedimientos, actuaciones y resoluciones judiciales","Procedimientos, Actuaciones Y Resoluciones Judiciales|Procedimientos, Actuaciones Y Resoluciones Judicialeses|procedimientos, actuaciones y resoluciones judiciales|procedimientos, actuaciones y resoluciones judicialeses"
+433,procesos y reacciones,Procesos Y Reacciones|Procesos Y Reaccioneses|procesos y reacciones|procesos y reaccioneses
+434,producir y elaborar,Producir Y Elaborar|Producir Y Elaborares|producir y elaborar|producir y elaborares
+435,productos metalúrgicos,Productos Metalúrgicos|Productos Metalúrgicoses|productos metalurgicos|productos metalurgicoses|productos metalúrgicos|productos metalúrgicoses
+436,productos químicos,Productos Químicos|Productos Químicoses|productos quimicos|productos quimicoses|productos químicos|productos químicoses
+437,profesiones,Profesiones|Profesioneses|profesiones|profesioneses
+438,profesores y alumnos,Profesores Y Alumnos|Profesores Y Alumnoses|profesores y alumnos|profesores y alumnoses
+439,protección civil y otros cuerpos de seguridad,Protección Civil Y Otros Cuerpos De Seguridad|Protección Civil Y Otros Cuerpos De Seguridades|proteccion civil y otros cuerpos de seguridad|proteccion civil y otros cuerpos de seguridades|protección civil y otros cuerpos de seguridad|protección civil y otros cuerpos de seguridades
+440,"protección, favor, seguridad y cuidado","Protección, Favor, Seguridad Y Cuidado|Protección, Favor, Seguridad Y Cuidados|proteccion, favor, seguridad y cuidado|proteccion, favor, seguridad y cuidados|protección, favor, seguridad y cuidado|protección, favor, seguridad y cuidados"
+441,"prudencia, seriedad y moderación / imprudencia y falta de moderación","Prudencia, Seriedad Y Moderación / Imprudencia Y Falta De Moderación|Prudencia, Seriedad Y Moderación / Imprudencia Y Falta De Moderaciónes|prudencia, seriedad y moderacion / imprudencia y falta de moderacion|prudencia, seriedad y moderacion / imprudencia y falta de moderaciones|prudencia, seriedad y moderación / imprudencia y falta de moderación|prudencia, seriedad y moderación / imprudencia y falta de moderaciónes"
+442,psicología,Psicología|Psicologías|psicologia|psicologias|psicología|psicologías
+443,publicidad,Publicidad|Publicidades|publicidad|publicidades
+444,querer y desear,Querer Y Desear|Querer Y Deseares|querer y desear|querer y deseares
+445,"radio, televisión y cine","Radio, Televisión Y Cine|Radio, Televisión Y Cines|radio, television y cine|radio, television y cines|radio, televisión y cine|radio, televisión y cines"
+446,realidad y existencia,Realidad Y Existencia|Realidad Y Existencias|realidad y existencia|realidad y existencias
+447,recuerdo y memoria / olvido,Recuerdo Y Memoria / Olvido|Recuerdo Y Memoria / Olvidos|recuerdo y memoria / olvido|recuerdo y memoria / olvidos
+448,relación,Relación|Relaciónes|relacion|relaciones|relación|relaciónes
+449,relación del hombre con los animales,Relación Del Hombre Con Los Animales|Relación Del Hombre Con Los Animaleses|relacion del hombre con los animales|relacion del hombre con los animaleses|relación del hombre con los animales|relación del hombre con los animaleses
+450,"relacionar, corresponder y comparar","Relacionar, Corresponder Y Comparar|Relacionar, Corresponder Y Comparares|relacionar, corresponder y comparar|relacionar, corresponder y comparares"
+451,relaciones amorosas,Relaciones Amorosas|Relaciones Amorosases|relaciones amorosas|relaciones amorosases
+452,relaciones familiares,Relaciones Familiares|Relaciones Familiareses|relaciones familiares|relaciones familiareses
+453,relaciones sociales,Relaciones Sociales|Relaciones Socialeses|relaciones sociales|relaciones socialeses
+454,religión,Credo|Credos|Culto|Cultos|Dogma|Dogmas|Fe|Fes|Liturgia|Liturgias|Religión|Religiónes|Teología|Teologías|credo|credos|culto|cultos|dogma|dogmas|fe|fes|liturgia|liturgias|religion|religiones|religión|religiónes|teologia|teologias|teología|teologías
+455,relojería,Relojería|Relojerías|relojeria|relojerias|relojería|relojerías
+456,remuneración laboral,Remuneración Laboral|Remuneración Laborales|remuneracion laboral|remuneracion laborales|remuneración laboral|remuneración laborales
+457,"reprender, murmurar e insultar","Reprender, Murmurar E Insultar|Reprender, Murmurar E Insultares|reprender, murmurar e insultar|reprender, murmurar e insultares"
+458,reproducción animal,Reproducción Animal|Reproducción Animales|reproduccion animal|reproduccion animales|reproducción animal|reproducción animales
+459,reproducción vegetal,Reproducción Vegetal|Reproducción Vegetales|reproduccion vegetal|reproduccion vegetales|reproducción vegetal|reproducción vegetales
+460,"reputación, respeto y premio / humillación, deshonor y castigo","Reputación, Respeto Y Premio / Humillación, Deshonor Y Castigo|Reputación, Respeto Y Premio / Humillación, Deshonor Y Castigos|reputacion, respeto y premio / humillacion, deshonor y castigo|reputacion, respeto y premio / humillacion, deshonor y castigos|reputación, respeto y premio / humillación, deshonor y castigo|reputación, respeto y premio / humillación, deshonor y castigos"
+461,residencia y hospedaje,Residencia Y Hospedaje|Residencia Y Hospedajes|residencia y hospedaje|residencia y hospedajes
+462,residuos,Residuos|Residuoses|residuos|residuoses
+463,responsabilidad y deber / irresponsabilidad y exención,Responsabilidad Y Deber / Irresponsabilidad Y Exención|Responsabilidad Y Deber / Irresponsabilidad Y Exenciónes|responsabilidad y deber / irresponsabilidad y exencion|responsabilidad y deber / irresponsabilidad y exenciones|responsabilidad y deber / irresponsabilidad y exención|responsabilidad y deber / irresponsabilidad y exenciónes
+464,restaurantes y bares,Restaurantes Y Bares|Restaurantes Y Bareses|restaurantes y bares|restaurantes y bareses
+465,resultado de la acción,Resultado De La Acción|Resultado De La Acciónes|resultado de la accion|resultado de la acciones|resultado de la acción|resultado de la acciónes
+466,resumen y concisión,Resumen Y Concisión|Resumen Y Concisiónes|resumen y concision|resumen y concisiones|resumen y concisión|resumen y concisiónes
+467,retórica y oratoria,Retórica Y Oratoria|Retórica Y Oratorias|retorica y oratoria|retorica y oratorias|retórica y oratoria|retórica y oratorias
+468,reuniones y congresos,Reuniones Y Congresos|Reuniones Y Congresoses|reuniones y congresos|reuniones y congresoses
+469,romper y destruir / reparar,Romper Y Destruir / Reparar|Romper Y Destruir / Reparares|romper y destruir / reparar|romper y destruir / reparares
+470,"sacudir, mecer o vibrar","Sacudir, Mecer O Vibrar|Sacudir, Mecer O Vibrares|sacudir, mecer o vibrar|sacudir, mecer o vibrares"
+471,"seguridad, certeza y constatación / duda y sospecha","Seguridad, Certeza Y Constatación / Duda Y Sospecha|Seguridad, Certeza Y Constatación / Duda Y Sospechas|seguridad, certeza y constatacion / duda y sospecha|seguridad, certeza y constatacion / duda y sospechas|seguridad, certeza y constatación / duda y sospecha|seguridad, certeza y constatación / duda y sospechas"
+472,seguros,Seguros|Seguroses|seguros|seguroses
+473,semántica,Semántica|Semánticas|semantica|semanticas|semántica|semánticas
+474,semillas,Semillas|Semillases|semillas|semillases
+475,"señales, marcas e indicios","Señales, Marcas E Indicios|Señales, Marcas E Indicioses|senales, marcas e indicios|senales, marcas e indicioses|señales, marcas e indicios|señales, marcas e indicioses"
+476,sentidos,Sentidos|Sentidoses|sentidos|sentidoses
+477,separar / unir y juntar,Separar / Unir Y Juntar|Separar / Unir Y Juntares|separar / unir y juntar|separar / unir y juntares
+478,ser y esencia,Ser Y Esencia|Ser Y Esencias|ser y esencia|ser y esencias
+479,seres vivos,Seres Vivos|Seres Vivoses|seres vivos|seres vivoses
+480,servicio doméstico,Servicio Doméstico|Servicio Domésticos|servicio domestico|servicio domesticos|servicio doméstico|servicio domésticos
+481,servicios de seguridad,Servicios De Seguridad|Servicios De Seguridades|servicios de seguridad|servicios de seguridades
+482,sexualidad,Sexualidad|Sexualidades|sexualidad|sexualidades
+483,sociología,Sociología|Sociologías|sociologia|sociologias|sociología|sociologías
+484,"solucionar, remediar y resarcir","Solucionar, Remediar Y Resarcir|Solucionar, Remediar Y Resarcires|solucionar, remediar y resarcir|solucionar, remediar y resarcires"
+485,sonido,Sonido|Sonidos|sonido|sonidos
+486,sonidos de los animales,Sonidos De Los Animales|Sonidos De Los Animaleses|sonidos de los animales|sonidos de los animaleses
+487,sucio / limpio,Sucio / Limpio|Sucio / Limpios|sucio / limpio|sucio / limpios
+488,sueño y descanso,Sueño Y Descanso|Sueño Y Descansos|sueno y descanso|sueno y descansos|sueño y descanso|sueño y descansos
+489,suerte y casualidad,Suerte Y Casualidad|Suerte Y Casualidades|suerte y casualidad|suerte y casualidades
+490,suministros e infraestructuras,Suministros E Infraestructuras|Suministros E Infraestructurases|suministros e infraestructuras|suministros e infraestructurases
+491,tabaco,Tabaco|Tabacos|tabaco|tabacos
+492,"tablas, gráficos y diagramas","Tablas, Gráficos Y Diagramas|Tablas, Gráficos Y Diagramases|tablas, graficos y diagramas|tablas, graficos y diagramases|tablas, gráficos y diagramas|tablas, gráficos y diagramases"
+493,tacto,Tacto|Tactos|tacto|tactos
+494,tauromaquia,Tauromaquia|Tauromaquias|tauromaquia|tauromaquias
+495,taxonomía animal,Taxonomía Animal|Taxonomía Animales|taxonomia animal|taxonomia animales|taxonomía animal|taxonomía animales
+496,taxonomía vegetal,Taxonomía Vegetal|Taxonomía Vegetales|taxonomia vegetal|taxonomia vegetales|taxonomía vegetal|taxonomía vegetales
+497,teatro,Teatro|Teatros|teatro|teatros
+498,tejidos,Tejidos|Tejidoses|tejidos|tejidoses
+499,telecomunicaciones,Telecomunicaciones|Telecomunicacioneses|telecomunicaciones|telecomunicacioneses
+500,teléfono,Teléfono|Teléfonos|telefono|telefonos|teléfono|teléfonos
+501,temperatura,Temperatura|Temperaturas|temperatura|temperaturas
+502,tendencias y doctrinas políticas,Tendencias Y Doctrinas Políticas|Tendencias Y Doctrinas Políticases|tendencias y doctrinas politicas|tendencias y doctrinas politicases|tendencias y doctrinas políticas|tendencias y doctrinas políticases
+503,"tener, provocar y manifestar sentimientos","Tener, Provocar Y Manifestar Sentimientos|Tener, Provocar Y Manifestar Sentimientoses|tener, provocar y manifestar sentimientos|tener, provocar y manifestar sentimientoses"
+504,teorías y disciplinas,Teorías Y Disciplinas|Teorías Y Disciplinases|teorias y disciplinas|teorias y disciplinases|teorías y disciplinas|teorías y disciplinases
+505,terminar e interrumpir,Terminar E Interrumpir|Terminar E Interrumpires|terminar e interrumpir|terminar e interrumpires
+506,terrenos,Terrenos|Terrenoses|terrenos|terrenoses
+507,texturas y otras magnitudes y propiedades,Texturas Y Otras Magnitudes Y Propiedades|Texturas Y Otras Magnitudes Y Propiedadeses|texturas y otras magnitudes y propiedades|texturas y otras magnitudes y propiedadeses
+508,tiempo,Tiempo|Tiempos|tiempo|tiempos
+509,tierra,Tierra|Tierras|tierra|tierras
+510,todo / parte / nada,Todo / Parte / Nada|Todo / Parte / Nadas|todo / parte / nada|todo / parte / nadas
+511,topografía y parcelación,Topografía Y Parcelación|Topografía Y Parcelaciónes|topografia y parcelacion|topografia y parcelaciones|topografía y parcelación|topografía y parcelaciónes
+512,topónimos,Topónimos|Topónimoses|toponimos|toponimoses|topónimos|topónimoses
+513,trabajo,Trabajo|Trabajos|trabajo|trabajos
+514,tracción animal,Tracción Animal|Tracción Animales|traccion animal|traccion animales|tracción animal|tracción animales
+515,tracción mecánica y humana,Tracción Mecánica Y Humana|Tracción Mecánica Y Humanas|traccion mecanica y humana|traccion mecanica y humanas|tracción mecánica y humana|tracción mecánica y humanas
+516,transmisiones sucesorias,Transmisiones Sucesorias|Transmisiones Sucesoriases|transmisiones sucesorias|transmisiones sucesoriases
+517,transporte aéreo,Transporte Aéreo|Transporte Aéreos|transporte aereo|transporte aereos|transporte aéreo|transporte aéreos
+518,transporte marítimo y fluvial,Transporte Marítimo Y Fluvial|Transporte Marítimo Y Fluviales|transporte maritimo y fluvial|transporte maritimo y fluviales|transporte marítimo y fluvial|transporte marítimo y fluviales
+519,transporte terrestre,Transporte Terrestre|Transporte Terrestres|transporte terrestre|transporte terrestres
+520,transportes,Transportes|Transporteses|transportes|transporteses
+521,trastornos psicológicos,Trastornos Psicológicos|Trastornos Psicológicoses|trastornos psicologicos|trastornos psicologicoses|trastornos psicológicos|trastornos psicológicoses
+522,tratamientos y técnicas,Tratamientos Y Técnicas|Tratamientos Y Técnicases|tratamientos y tecnicas|tratamientos y tecnicases|tratamientos y técnicas|tratamientos y técnicases
+523,tributos,Tributos|Tributoses|tributos|tributoses
+524,"tristeza, sufrimiento y resignación","Tristeza, Sufrimiento Y Resignación|Tristeza, Sufrimiento Y Resignaciónes|tristeza, sufrimiento y resignacion|tristeza, sufrimiento y resignaciones|tristeza, sufrimiento y resignación|tristeza, sufrimiento y resignaciónes"
+525,triunfo y logro,Triunfo Y Logro|Triunfo Y Logros|triunfo y logro|triunfo y logros
+526,urbanismo y mobiliario urbano,Urbanismo Y Mobiliario Urbano|Urbanismo Y Mobiliario Urbanos|urbanismo y mobiliario urbano|urbanismo y mobiliario urbanos
+527,utensilios y máquinas,Utensilios Y Máquinas|Utensilios Y Máquinases|utensilios y maquinas|utensilios y maquinases|utensilios y máquinas|utensilios y máquinases
+528,utilidad y provecho / inutilidad,Utilidad Y Provecho / Inutilidad|Utilidad Y Provecho / Inutilidades|utilidad y provecho / inutilidad|utilidad y provecho / inutilidades
+529,validez / nulidad,Validez / Nulidad|Validez / Nulidades|validez / nulidad|validez / nulidades
+530,"valor, ánimo y desenvoltura / cobardía, desánimo y timidez","Valor, Ánimo Y Desenvoltura / Cobardía, Desánimo Y Timideces|Valor, Ánimo Y Desenvoltura / Cobardía, Desánimo Y Timidez|valor, animo y desenvoltura / cobardia, desanimo y timideces|valor, animo y desenvoltura / cobardia, desanimo y timidez|valor, ánimo y desenvoltura / cobardía, desánimo y timideces|valor, ánimo y desenvoltura / cobardía, desánimo y timidez"
+531,vegetales,Vegetales|Vegetaleses|vegetales|vegetaleses
+532,"velocidad, rapidez y lentitud","Velocidad, Rapidez Y Lentitud|Velocidad, Rapidez Y Lentitudes|velocidad, rapidez y lentitud|velocidad, rapidez y lentitudes"
+533,"verdad y sinceridad / mentira, engaño y disimulo","Verdad Y Sinceridad / Mentira, Engaño Y Disimulo|Verdad Y Sinceridad / Mentira, Engaño Y Disimulos|verdad y sinceridad / mentira, engano y disimulo|verdad y sinceridad / mentira, engano y disimulos|verdad y sinceridad / mentira, engaño y disimulo|verdad y sinceridad / mentira, engaño y disimulos"
+534,vestido,Vestido|Vestidos|vestido|vestidos
+535,veterinaria,Veterinaria|Veterinarias|veterinaria|veterinarias
+536,vida animal,Vida Animal|Vida Animales|vida animal|vida animales
+537,vida humana,Vida Humana|Vida Humanas|vida humana|vida humanas
+538,vida vegetal,Vida Vegetal|Vida Vegetales|vida vegetal|vida vegetales
+539,vista,Vista|Vistas|vista|vistas
+540,viticultura,Viticultura|Viticulturas|viticultura|viticulturas
+541,vocabulario deportivo,Vocabulario Deportivo|Vocabulario Deportivos|vocabulario deportivo|vocabulario deportivos
+542,vocabulario musical,Vocabulario Musical|Vocabulario Musicales|vocabulario musical|vocabulario musicales
+543,"voluntad, libertad e intención / instintivo","Voluntad, Libertad E Intención / Instintivo|Voluntad, Libertad E Intención / Instintivos|voluntad, libertad e intencion / instintivo|voluntad, libertad e intencion / instintivos|voluntad, libertad e intención / instintivo|voluntad, libertad e intención / instintivos"
+544,vulcanismo,Vulcanismo|Vulcanismos|vulcanismo|vulcanismos
+545,zapatería,Zapatería|Zapaterías|zapateria|zapaterias|zapatería|zapaterías
+546,zoología,Animales|Animaleses|Fauna|Faunas|Zoología|Zoologías|Zoológico|Zoológicos|Zootecnia|Zootecnias|animales|animaleses|fauna|faunas|zoologia|zoologias|zoologico|zoologicos|zoología|zoologías|zoológico|zoológicos|zootecnia|zootecnias
